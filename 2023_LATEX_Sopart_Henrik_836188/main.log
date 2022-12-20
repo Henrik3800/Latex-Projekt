@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  18 DEC 2022 20:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  21 DEC 2022 00:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"w:/Uni - Siemens/LATEX Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex"
-(w:/Uni - Siemens/LATEX Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex
+**"d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex"
+(d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-11-02> (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/koma-script\scrartcl.cls
 Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
@@ -234,16 +234,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2] [3] (main.aux) ) 
 Here is how much of TeX's memory you used:
  5672 strings out of 475281
- 118514 string characters out of 2778251
+ 118586 string characters out of 2778251
  595856 words of memory out of 3000000
  27120 multiletter control sequences out of 15000+600000
  478313 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,7n,106p,10664b,360s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 108i,7n,106p,10673b,360s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\henri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\henri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\henri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\henri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\henri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\henri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk>
-Output written on main.pdf (3 pages, 46833 bytes).
+Output written on main.pdf (3 pages, 46374 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 155 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

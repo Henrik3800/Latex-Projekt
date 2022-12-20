@@ -1,0 +1,4 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Überschrift für das Inhaltsverzeichnis}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Überschrift für das Inhaltsverzeichnis}{3}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

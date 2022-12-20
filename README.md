@@ -1,2 +1,0 @@
-# Latex-Projekt
-test

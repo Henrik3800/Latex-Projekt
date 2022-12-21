@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1671581851 "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" "main.pdf" "main" 1671581851 0
+["pdflatex"] 1671582174 "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" "main.pdf" "main" 1671582175 0
   "C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1671581370 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/henri/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1671581703 31952 267f5003c35dcbcb13880f17562f90dc ""
   "C:/Users/henri/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1671581705 40136 6699ff497d8c8a9244e0f05cd6e9cb73 ""
@@ -47,13 +47,11 @@
   "D:/Program Files (x86)/LATEX/MikTeX/tex/latex/graphics/graphicx.sty" 1665063979 8010 a8d949cbdbc5c983593827c9eec252e1 ""
   "D:/Program Files (x86)/LATEX/MikTeX/tex/latex/graphics/keyval.sty" 1665063979 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "D:/Program Files (x86)/LATEX/MikTeX/tex/latex/graphics/trig.sty" 1665063979 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
-  "D:/Program Files (x86)/LATEX/MikTeX/tex/latex/import/import.sty" 1585733216 6201 0ad8b5da8e12f60a88d546b2198a56f2 ""
   "D:/Program Files (x86)/LATEX/MikTeX/tex/latex/l3backend/l3backend-pdftex.def" 1666806412 30426 f2fb69fcda4dc35ed0b7dee211bce679 ""
-  "D:/Program Files (x86)/LATEX/MikTeX/tex/latex/subfiles/subfiles.sty" 1606222980 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
-  "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" 1671581849 919 87637e2d880890ae55b326f06f127cf9 ""
-  "main.aux" 1671581851 397 52e898b56b2cd27276b6252f9c7ca02c "pdflatex"
-  "main.tex" 1671581849 919 87637e2d880890ae55b326f06f127cf9 ""
-  "main.toc" 1671581851 213 1467562da56a4d9dc6b53e98a4366f92 "pdflatex"
+  "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" 1671582174 827 7214323bb7913e7d4d47b0158da0f8b2 ""
+  "main.aux" 1671582175 397 52e898b56b2cd27276b6252f9c7ca02c "pdflatex"
+  "main.tex" 1671582174 827 7214323bb7913e7d4d47b0158da0f8b2 ""
+  "main.toc" 1671582175 213 1467562da56a4d9dc6b53e98a4366f92 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  21 DEC 2022 00:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  21 DEC 2022 01:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -176,20 +176,20 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count197
@@ -209,14 +209,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 32.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 24.
+(Font)              <14.4> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
+(Font)              <7> on input line 32.
  [1
 
 
@@ -233,10 +233,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [2] [3] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5672 strings out of 475281
- 118586 string characters out of 2778251
- 595856 words of memory out of 3000000
- 27120 multiletter control sequences out of 15000+600000
+ 5675 strings out of 475281
+ 118601 string characters out of 2778251
+ 595865 words of memory out of 3000000
+ 27123 multiletter control sequences out of 15000+600000
  478313 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,106p,10673b,360s stack positions out of 10000i,1000n,20000p,200000b,80000s

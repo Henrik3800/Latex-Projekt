@@ -1,4 +1,4 @@
-\documentclass[a4paper,11pt]{scrartcl}
+\documentclass[a4paper,11pt]{report}
 
 %Optimierung für deutsche Sprache (Umlaute, Sonderzeichen etc.)
 \usepackage[utf8]{inputenc}
@@ -27,11 +27,17 @@
 
 
 \begin{document}
-
+\begin{titlepage}
 \maketitle
+\end{titlepage}
+\thispagestyle{empty}
 \newpage
+
 \tableofcontents
+\thispagestyle{empty}
 \newpage
+
+\setcounter{page}{1}
 \section[Überschrift für das Inhaltsverzeichnis]{Überschrift des Kapitels}
 \subsection[Überschrift für das Inhaltsverzeichnis]{Überschrift des Kapitels}
 

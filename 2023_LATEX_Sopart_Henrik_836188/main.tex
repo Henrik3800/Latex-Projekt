@@ -1,46 +1,35 @@
 \documentclass[a4paper, 11pt]{article} % Documentklasse und Papierformat festlegen
 
+\usepackage[left=2.5cm, right=2.5cm]{geometry} % Ränder festlegen
+\usepackage{fancyhdr} % Um Kopf- und Fußzeilen zu gestalten
 \usepackage[utf8]{inputenc} % Encoding für Umlaute
 \usepackage[T1]{fontenc} % Font Encoding für korrekte Darstellung von Sonderzeichen
 \usepackage[ngerman]{babel} % Sprachpaket für deutsche Sprache
 \usepackage{lmodern} % Schriftart
-
 \usepackage{amsmath} % Mathematische Symbole und Funktionen
 \usepackage{amssymb} % Mathematische Symbole und Funktionen
-
 \usepackage{graphicx} % Einbinden von Grafiken
-\usepackage[left=2.5cm, right=2.5cm]{geometry} % Ränder festlegen
-\usepackage{fancyhdr} % Um Kopf- und Fußzeilen zu gestalten
+\setlength{\parindent}{0em} % Verhindert das Einrücken
 
 
-
-\newcommand{\Thema}{FPV Drohnen – Herausforderungen an Hard- und Software}
+\newcommand{\Thema}{FPV Drohnen}
+\newcommand{\Unterthema}{Herausforderungen für Hard- und Software}
 \newcommand{\Autor}{Henrik Sopart}
 \newcommand{\Datum}{\today}
 
 
 
-\title{\Thema}
-\author{\Autor}
-\date{\Datum}
-
-
 
 \begin{document}
-\begin{titlepage}
-\maketitle
-\end{titlepage}
-\thispagestyle{empty}
-\newpage
+
+\include{Kapitel/Deckblatt/Deckblatt.tex}
 
 \tableofcontents
 \thispagestyle{empty}
-\newpage
+\setcounter{page}{0}
 
-\setcounter{page}{1}
-\section[Überschrift für das Inhaltsverzeichnis]{Überschrift des Kapitels}
-\subsection[Überschrift für das Inhaltsverzeichnis]{Überschrift des Kapitels}
 
-test5
+\include{Kapitel/01_Einleitung/01_Einleitung.tex}
+\include{Kapitel/02_Thema2/02_Thema2.tex}
 
 \end{document}

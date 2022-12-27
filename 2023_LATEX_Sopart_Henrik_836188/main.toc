@@ -3,4 +3,4 @@
 \contentsline {section}{\numberline {2}FPV-Drohnen}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Besonderheiten von FPV-Drohnen}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Steuerung}{2}{}%
-\contentsline {subsection}{\numberline {2.3}Komplexität}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Komplexität und Risiko}{3}{}%

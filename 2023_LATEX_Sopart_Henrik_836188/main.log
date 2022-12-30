@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  27 DEC 2022 23:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  30 DEC 2022 01:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -267,7 +267,7 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box55
-) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux))
+) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -477,19 +477,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--33
 
  []
 
-) [3] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux)) ) 
+) [3]
+\openout2 = `Kapitel/03_Bauteile/03_Bauteile.aux'.
+
+ (Kapitel/03_Bauteile/03_Bauteile.tex) [4
+
+
+
+] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux)) ) 
 Here is how much of TeX's memory you used:
- 5564 strings out of 475281
- 89898 string characters out of 2778251
- 454184 words of memory out of 3000000
- 26928 multiletter control sequences out of 15000+600000
+ 5594 strings out of 475281
+ 91579 string characters out of 2778251
+ 454440 words of memory out of 3000000
+ 26949 multiletter control sequences out of 15000+600000
  512589 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,62p,1847b,227s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on main.pdf (5 pages, 105088 bytes).
+Output written on main.pdf (6 pages, 106571 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

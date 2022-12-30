@@ -340,6 +340,9 @@ INPUT Kapitel\01_Einleitung\01_Einleitung.aux
 INPUT .\Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.aux
 INPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.aux
 INPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.aux
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.aux
+INPUT Kapitel\03_Bauteile\03_Bauteile.aux
+INPUT Kapitel\03_Bauteile\03_Bauteile.aux
 OUTPUT main.aux
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -442,6 +445,15 @@ INPUT .\Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
 INPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr12.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
+OUTPUT Kapitel\03_Bauteile\03_Bauteile.aux
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
+INPUT Kapitel\03_Bauteile\03_Bauteile.tex
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
+INPUT Kapitel\03_Bauteile\03_Bauteile.tex
 INPUT main.aux
 INPUT .\Kapitel\Deckblatt\Deckblatt.aux
 INPUT Kapitel\Deckblatt\Deckblatt.aux
@@ -452,6 +464,9 @@ INPUT Kapitel\01_Einleitung\01_Einleitung.aux
 INPUT .\Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.aux
 INPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.aux
 INPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.aux
+INPUT .\Kapitel\03_Bauteile\03_Bauteile.aux
+INPUT Kapitel\03_Bauteile\03_Bauteile.aux
+INPUT Kapitel\03_Bauteile\03_Bauteile.aux
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb

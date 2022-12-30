@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  30 DEC 2022 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  30 DEC 2022 03:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -480,11 +480,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--33
 ) [3]
 \openout2 = `Kapitel/03_Bauteile/03_Bauteile.aux'.
 
- (Kapitel/03_Bauteile/03_Bauteile.tex) [4
+ (Kapitel/03_Bauteile/03_Bauteile.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 20--37
+
+ []
+
+[4
 
 
 
-] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux)) ) 
+] [5] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux)) ) 
 Here is how much of TeX's memory you used:
  5594 strings out of 475281
  91579 string characters out of 2778251
@@ -492,11 +507,11 @@ Here is how much of TeX's memory you used:
  26949 multiletter control sequences out of 15000+600000
  512589 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,1847b,227s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,8n,62p,1851b,227s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on main.pdf (6 pages, 106571 bytes).
+Output written on main.pdf (7 pages, 112687 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

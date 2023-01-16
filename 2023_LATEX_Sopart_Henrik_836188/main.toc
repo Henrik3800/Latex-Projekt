@@ -10,3 +10,4 @@
 \contentsline {subsubsection}{\numberline {3.1.2}Filter}{6}{}%
 \contentsline {subsection}{\numberline {3.2}Rahmen}{7}{}%
 \contentsline {subsection}{\numberline {3.3}Propeller}{7}{}%
+\contentsline {section}{\numberline {4}Bildstabilisierung}{8}{}%

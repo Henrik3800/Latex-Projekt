@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{841.88976378bp}%
+    \setlength{\unitlength}{812.32566602bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,18 +50,18 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.70707071)%
+  \begin{picture}(1,0.3892537)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{Grafik_StabilisierungV2.pdf}}%
-    \put(0.05712495,0.1445243){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Eingabe\end{tabular}}}}%
-    \put(0.34902786,0.1445243){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Veranschaulichung\end{tabular}}}}%
-    \put(0.78348754,0.1445243){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ausgabe\end{tabular}}}}%
-    \put(0.18897119,0.33183223){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1920\end{tabular}}}}%
-    \put(0.07059908,0.5010943){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1080\end{tabular}}}}%
-    \put(0.62370973,0.33183223){\color[rgb]{0,0.35686275,0.59607843}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1080\end{tabular}}}}%
-    \put(0.43746813,0.43517118){\color[rgb]{0,0.35686275,0.59607843}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1920\end{tabular}}}}%
-    \put(0.91947608,0.33183223){\color[rgb]{0.05490196,0.6,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}607,5\end{tabular}}}}%
-    \put(0.79893809,0.39953706){\color[rgb]{0.05490196,0.6,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1080\end{tabular}}}}%
+    \put(0.04991055,0.00456369){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Eingabe\end{tabular}}}}%
+    \put(0.35243709,0.00456369){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Veranschaulichung\end{tabular}}}}%
+    \put(0.80270867,0.00456369){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Ausgabe\end{tabular}}}}%
+    \put(0.18655526,0.19868858){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1920\end{tabular}}}}%
+    \put(0.06387507,0.37411083){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1080\end{tabular}}}}%
+    \put(0.63711584,0.19868858){\color[rgb]{0,0.35686275,0.59607843}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1080\end{tabular}}}}%
+    \put(0.44409609,0.30578848){\color[rgb]{0,0.35686275,0.59607843}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1920\end{tabular}}}}%
+    \put(0.94364643,0.19868858){\color[rgb]{0.05490196,0.6,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}607,5\end{tabular}}}}%
+    \put(0.81872154,0.26885748){\color[rgb]{0.05490196,0.6,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1080\end{tabular}}}}%
   \end{picture}%
 \endgroup%

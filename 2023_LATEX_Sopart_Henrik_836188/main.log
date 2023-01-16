@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  16 JAN 2023 13:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  16 JAN 2023 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,38 +205,47 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen159
 \Gin@req@width=\dimen160
-) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics\color.sty
-Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
- (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen161
+\captionmargin=\dimen162
+\caption@leftmargin=\dimen163
+\caption@rightmargin=\dimen164
+\caption@width=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
+Package caption Info: Standard document class detected.
 )
-Package color Info: Driver file: pdftex.def on input line 149.
- (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics\mathcolor.ltx)) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/booktabs\booktabs.sty
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen161
-\lightrulewidth=\dimen162
-\cmidrulewidth=\dimen163
-\belowrulesep=\dimen164
-\belowbottomsep=\dimen165
-\aboverulesep=\dimen166
-\abovetopsep=\dimen167
-\cmidrulesep=\dimen168
-\cmidrulekern=\dimen169
-\defaultaddspace=\dimen170
-\@cmidla=\count276
-\@cmidlb=\count277
-\@aboverulesep=\dimen171
-\@belowrulesep=\dimen172
-\@thisruleclass=\count278
-\@lastruleclass=\count279
-\@thisrulewidth=\dimen173
+\heavyrulewidth=\dimen169
+\lightrulewidth=\dimen170
+\cmidrulewidth=\dimen171
+\belowrulesep=\dimen172
+\belowbottomsep=\dimen173
+\aboverulesep=\dimen174
+\abovetopsep=\dimen175
+\cmidrulesep=\dimen176
+\cmidrulekern=\dimen177
+\defaultaddspace=\dimen178
+\@cmidla=\count278
+\@cmidlb=\count279
+\@aboverulesep=\dimen179
+\@belowrulesep=\dimen180
+\@thisruleclass=\count280
+\@lastruleclass=\count281
+\@thisrulewidth=\dimen181
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
-LaTeX Info: Redefining \color on input line 711.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
@@ -247,50 +256,31 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/tools\array.sty
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen174
-\ar@mcellbox=\box53
-\extrarowheight=\dimen175
-\NC@list=\toks25
-\extratabsurround=\skip62
-\backup@length=\skip63
-\ar@cellbox=\box54
 )
-\TX@col@width=\dimen176
-\TX@old@table=\dimen177
-\TX@old@col=\dimen178
-\TX@target=\dimen179
-\TX@delta=\dimen180
-\TX@cols=\count280
-\TX@ftn=\toks26
-)
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 31.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 29.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count281
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box53
 ) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -328,23 +318,25 @@ LaTeX Font Info:    ... okay on input line 31.
 
 (D:\Program Files (x86)\LATEX\MikTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
-\scratchdimen=\dimen181
-\scratchbox=\box56
-\nofMPsegments=\count283
-\nofMParguments=\count284
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count285
-\MPscratchDim=\dimen182
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count283
+\scratchdimen=\dimen182
+\scratchbox=\box54
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen183
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks26
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 \openout2 = `Kapitel/Deckblatt/Deckblatt.aux'.
 
  (Kapitel/Deckblatt/Deckblatt.tex [1
@@ -391,22 +383,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `Kapitel/01_Einleitung/01_Einleitung.aux'.
 
  (Kapitel/01_Einleitung/01_Einleitung.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--40
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--40
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--40
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--40
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
@@ -422,32 +414,32 @@ Underfull \hbox (badness 7203) in paragraph at lines 12--12
 
 
 Underfull \hbox (badness 2165) in paragraph at lines 13--13
-[]|\T1/lmr/m/n/10.95 Flug über Sicht-li-nie oder Bild-
+[]\T1/lmr/m/n/10.95 Flug über Sicht-li-nie oder Bild-
  []
 
 
 Overfull \hbox (5.37434pt too wide) in paragraph at lines 14--14
-[]|\T1/lmr/m/n/10.95 Verwendungszweck| 
+[]\T1/lmr/m/n/10.95 Verwendungszweck| 
  []
 
 
 Underfull \hbox (badness 4954) in paragraph at lines 14--14
-[]|\T1/lmr/m/n/10.95 Fotografie, Vi-deo-gra-fie, Ver-mes-
+[]\T1/lmr/m/n/10.95 Fotografie, Vi-deo-gra-fie, Ver-mes-
  []
 
 
 Underfull \hbox (badness 1231) in paragraph at lines 14--15
-[]|\T1/lmr/m/n/10.95 Rennen, Wett-be-wer-be, Freestyle-
+[]\T1/lmr/m/n/10.95 Rennen, Wett-be-wer-be, Freestyle-
  []
 
 
 Underfull \hbox (badness 1057) in paragraph at lines 15--16
-[]|\T1/lmr/m/n/10.95 Meist, ein ei-nem fes-ten Win-kel,
+[]\T1/lmr/m/n/10.95 Meist, ein ei-nem fes-ten Win-kel,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 16--16
-[]|\T1/lmr/m/n/10.95 Deutlich län-ge-re Ak-ku-lauf-zeit,
+[]\T1/lmr/m/n/10.95 Deutlich län-ge-re Ak-ku-lauf-zeit,
  []
 
 
@@ -457,7 +449,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
 
 Underfull \hbox (badness 7907) in paragraph at lines 16--17
-[]|\T1/lmr/m/n/10.95 Kurze Ak-ku-lauf-zei-ten, Deut-lich
+[]\T1/lmr/m/n/10.95 Kurze Ak-ku-lauf-zei-ten, Deut-lich
  []
 
 
@@ -534,15 +526,15 @@ Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input 
 (pdftex.def)             Requested size: 400.0pt x 282.8254pt.
 ) [8 <./Img//Grafik_StabilisierungV2.pdf>] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux)) ) 
 Here is how much of TeX's memory you used:
- 5647 strings out of 475281
- 93269 string characters out of 2778251
- 454513 words of memory out of 3000000
- 26989 multiletter control sequences out of 15000+600000
+ 6807 strings out of 475281
+ 115882 string characters out of 2778251
+ 474305 words of memory out of 3000000
+ 28156 multiletter control sequences out of 15000+600000
  512589 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,62p,1851b,362s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,13n,63p,1851b,419s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on main.pdf (10 pages, 119137 bytes).
+Output written on main.pdf (10 pages, 119138 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -9,17 +9,15 @@
 \usepackage{amsmath} % Mathematische Symbole und Funktionen
 \usepackage{amssymb} % Mathematische Symbole und Funktionen
 \usepackage{graphicx} % Einbinden von Grafiken
+\usepackage{caption} % Formatierung von Abbildungs- und Tabellenbeschriftungen anpassen
+\usepackage{booktabs} % Erstellen von "schöneren" Tabellen
+\usepackage{xcolor} % Farben
+
 \setlength{\parindent}{0em} % Verhindert das Einrücken
+\graphicspath{{Img/}} % Pfad zu Grafikken für den Compiler
+\captionsetup[figure]{justification=raggedright,singlelinecheck=false} % "justification=raggedright" -> Beschriftungen linksbündig ; singlelinecheck=false -> keine automatische Zentrierung
 
-%Für Vektorgrafiken aus z.B. Inkscape
-\usepackage{color}
-\graphicspath{{Img/}}
-
-
-\usepackage{booktabs}
-\usepackage{xcolor}
-\usepackage{tabularx}
-
+% Neue Befehlsdefinitionen, um das Erstellen des Deckblattes zu erleichtern und einfacher Anpassungen vornehmen zu können.
 \newcommand{\Thema}{FPV Drohnen}
 \newcommand{\Unterthema}{Herausforderungen für Hard- und Software}
 \newcommand{\Autor}{Henrik Sopart}

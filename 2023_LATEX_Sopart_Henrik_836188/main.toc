@@ -4,6 +4,9 @@
 \contentsline {subsection}{\numberline {2.1}Besonderheiten von FPV-Drohnen}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Steuerung}{2}{}%
 \contentsline {subsection}{\numberline {2.3}Komplexität und Risiko}{3}{}%
-\contentsline {section}{\numberline {3}Bauteile}{4}{}%
-\contentsline {subsection}{\numberline {3.1}FC - Flight Controller}{4}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}PID - Proportional-Integral-Derivative Loop}{4}{}%
+\contentsline {section}{\numberline {3}Bauteile}{5}{}%
+\contentsline {subsection}{\numberline {3.1}FC - Flight Controller}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}PID - Proportional-Integral-Derivative Loop}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Filter}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Rahmen}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Propeller}{7}{}%

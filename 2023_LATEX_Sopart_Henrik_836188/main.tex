@@ -1,6 +1,6 @@
 \documentclass[a4paper, 11pt]{article} % Documentklasse und Papierformat festlegen
 
-\usepackage[left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm]{geometry} % Ränder festlegen
+\usepackage[left=2.5cm, right=2.5cm]{geometry} % Ränder festlegen
 \usepackage{fancyhdr} % Um Kopf- und Fußzeilen zu gestalten
 \usepackage[utf8]{inputenc} % Encoding für Umlaute
 \usepackage[T1]{fontenc} % Font Encoding für korrekte Darstellung von Sonderzeichen
@@ -10,6 +10,11 @@
 \usepackage{amssymb} % Mathematische Symbole und Funktionen
 \usepackage{graphicx} % Einbinden von Grafiken
 \setlength{\parindent}{0em} % Verhindert das Einrücken
+
+%Für Vektorgrafiken aus z.B. Inkscape
+\usepackage{color}
+\graphicspath{{Img/}}
+
 
 \usepackage{booktabs}
 \usepackage{xcolor}
@@ -35,4 +40,18 @@
 \include{Kapitel/01_Einleitung/01_Einleitung.tex}
 \include{Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.tex}
 \include{Kapitel/03_Bauteile/03_Bauteile.tex}
+
+
+\begin{figure}
+    \centering
+    \def\svgwidth{400pt}
+    \input{IMG/Grafik_StabilisierungV2.pdf_tex}
+    \caption{Test}
+    \label{vektorgrafik}
+\end{figure}
+
+
+
+
+
 \end{document}

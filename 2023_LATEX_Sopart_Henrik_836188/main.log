@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  30 DEC 2022 03:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  16 JAN 2023 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,7 +205,13 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen159
 \Gin@req@width=\dimen160
-) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/booktabs\booktabs.sty
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics\mathcolor.ltx)) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen161
 \lightrulewidth=\dimen162
@@ -230,6 +236,7 @@ Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
@@ -260,7 +267,7 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \TX@cols=\count280
 \TX@ftn=\toks26
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 26.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 31.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -270,20 +277,20 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 ) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -294,14 +301,14 @@ LaTeX Font Info:    ... okay on input line 26.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
-* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=455.24411pt
-* \textheight=702.78308pt
+* \textheight=591.5302pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-38.1381pt
+* \topmargin=-7.86334pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -384,22 +391,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `Kapitel/01_Einleitung/01_Einleitung.aux'.
 
  (Kapitel/01_Einleitung/01_Einleitung.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--35
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--35
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--35
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--35
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
@@ -477,7 +484,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--33
 
  []
 
-) [3]
+[3]) [4]
 \openout2 = `Kapitel/03_Bauteile/03_Bauteile.aux'.
 
  (Kapitel/03_Bauteile/03_Bauteile.tex
@@ -490,28 +497,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 20--37
+[5
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
 
  []
 
-[4
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
-] [5] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux)) ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+[6]) [7] (IMG/Grafik_StabilisierungV2.pdf_tex
+<Img//Grafik_StabilisierungV2.pdf, id=33, page=1, 845.04686pt x 597.50786pt>
+File: Img//Grafik_StabilisierungV2.pdf Graphic file (type pdf)
+<use Img//Grafik_StabilisierungV2.pdf, page 1>
+Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 400.0pt x 282.8254pt.
+) [8 <./Img//Grafik_StabilisierungV2.pdf>] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux)) ) 
 Here is how much of TeX's memory you used:
- 5594 strings out of 475281
- 91579 string characters out of 2778251
- 454440 words of memory out of 3000000
- 26949 multiletter control sequences out of 15000+600000
+ 5647 strings out of 475281
+ 93269 string characters out of 2778251
+ 454513 words of memory out of 3000000
+ 26989 multiletter control sequences out of 15000+600000
  512589 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,1851b,227s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,13n,62p,1851b,362s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on main.pdf (7 pages, 112687 bytes).
+Output written on main.pdf (10 pages, 119137 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

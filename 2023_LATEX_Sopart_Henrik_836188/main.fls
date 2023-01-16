@@ -492,10 +492,19 @@ INPUT Kapitel\03_Bauteile\03_Bauteile.aux
 INPUT .\Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
 INPUT Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
 INPUT Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi8.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmsy10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmsy10.pfb

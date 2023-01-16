@@ -6,14 +6,27 @@
     Die digitale Bildstabilisierung kommt, aufgrund des geringeren Gewichts meist in FPV-Drohnen zum Einsatz. Jedoch gibt es unterschiedliche Methoden, um ein Video digital zu stabilisieren. Häufig werden Algorithmen zur Bewegungserkennung verwendet, welche die Bewegungen der Kamera verfolgen und die Bilder entsprechend korrigieren. Dies geschieht in Echtzeit und erfordert wenig technisches Vorwissen in der Benutzung. Eine weitere Methode zur digitalen Bildstabilisierung nutzen die Daten aus Bewegungssensoren, wie zum Beispiel Gyrosensoren, um die Bewegungen der Kamera zusätzliche zum eigentlichen Bild zu erfassen. Anschließend werden diese Daten miteinander verglichen und das Bild entsprechend der aufgezeichneten Bewegungen angepasst. Diese Arbeit wird jedoch nicht in Echtzeit, sondern meist in einer speziellen Software durchgeführt.
     \\ \\
     Obwohl die digitale Bildstabilisierung viele Vorteile bietet, besteht ein großer Nachteil im Vergleich zur mechanischen Stabilisierung. Der Qualitätsverlust. Da eine mechanische Stabilisierung die Kamera physikalisch bewegt und so beispielsweise immer horizontal halten kann, ist kein digitales Zoomen notwendig. Bei einer digitalen Stabilisierung muss zwangsläufig gezoomt werden, da der Rand des Videos durch die Stabilisierung beschnitten wird und sich so das Seitenverhältnis des Videos ändert. Um dem entgegenzuwirken, wird digital in das Bild gezoomt, bis das gewünschte Seitenverhältnis erreicht und das Bild ausgefüllt ist. Bei diesem Vorgang geht jedoch ein Teil der Auflösung verloren, was in folgender Grafik dargestellt ist.
+    \\ \\
+    Den Ausgangszustand und somit die Eingabe der Stabilisierung bildet ein um 90 Grad gedrehtes Bild einer nicht mechanisch stabilisierten Kamera, welches in der Abbildung in schwarz dargestellt ist. Das Bild hat aufgrund der 90 Grad Drehung das Format 9:16 und die Auflösung 1080x1920. Soll diese Bild nun horizontal im Seitenverhältnis 16:9 stabilisiert werden, kann eine, hier in blau dargestellte Maske, im gewünschten Seitenverhältnis über die Eingabe gelegt werden. Da die neue Maske jedoch 1920 und nicht 1080 Pixel in der Horizontalen besitzt, haben 840 Pixel pro Reihe keinen Wert und bilden somit schwarze Balken an den Seiten. Um dem entgegenzuwirken, wird die Maske auf die Breite der Eingabe skaliert. Da das Seitenverhältnis beibehalten werden soll, muss dies sowohl für die Horizontale als auch für die Vertikale gelten. Dieser Schritt ist in Grün dargestellt.
+
+
 
 \newpage
 
 \begin{figure}[h]
     \centering
-    \def\svgwidth{420pt}
+    \def\svgwidth{\linewidth}
     \input{IMG/Grafik_StabilisierungV2.pdf_tex}
     \vspace{0.5cm}
     \caption{Test}
     \label{vektorgrafik}
 \end{figure}
+
+    Es lässt sich eindeutig erkenne, dass ein großer Teil der Auflösung fehlt, das Endresultat jedoch ein Bild im Format 16:9 ist. Dieses vorgehen lässt sich auf jedes Bild eines Videos anwenden, um ein Horizontal stabilisiertes Video zu erhalten. Bei einer geringeren Drehung der Eingabe, beispielsweise um 5 Grad, ist der Verlust aufgrund der Stabilisierung deutlich geringer. Mathematisch lässt sich der Unterschied zwischen Ein- und Ausgabe durch die folgende Formel beschreiben.
+
+\begin{equation}
+    \frac{A_x*A_y}{E_x*E_y}*100\%
+\end{equation}
+
+
+    Hierbei stehen $A_x$ und $A_y$ für die Länge und Breite der Ausgabe in Pixeln. $E_x$ und $E_y$ analog für die Länge und Breite der Eingabe. Das Ergebnis gibt, relativ zur Eingabe an, wie viel Prozent der ursprünglichen Pixel in der Ausgabe enthalten sind.

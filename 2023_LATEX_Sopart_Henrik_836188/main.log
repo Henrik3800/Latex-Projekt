@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  18 JAN 2023 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  18 JAN 2023 21:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **"d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex"
 (d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-11-02> (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/base\article.cls
+L3 programming layer <2022-11-02> (Metadaten/Praeambel.tex (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/base\size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -256,8 +256,8 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-)
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 29.
+))
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 26.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -267,20 +267,20 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 ) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -382,205 +382,60 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 \openout2 = `Kapitel/01_Einleitung/01_Einleitung.aux'.
 
- (Kapitel/01_Einleitung/01_Einleitung.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--38
-
- []
-
-[1
+ (Kapitel/01_Einleitung/01_Einleitung.tex) [1
 
 ]
 \openout2 = `Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux'.
 
  (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.tex
-Underfull \hbox (badness 7203) in paragraph at lines 12--12
-\T1/lmr/m/n/10.95 sis-tenz-sys-te-me wie bei-spiels-wei-
+Overfull \hbox (2.0138pt too wide) in paragraph at lines 10--23
+[]  
  []
 
-
-Underfull \hbox (badness 2165) in paragraph at lines 13--13
-[]\T1/lmr/m/n/10.95 Flug über Sicht-li-nie oder Bild-
- []
-
-
-Overfull \hbox (5.37434pt too wide) in paragraph at lines 14--14
-[]\T1/lmr/m/n/10.95 Verwendungszweck| 
- []
-
-
-Underfull \hbox (badness 4954) in paragraph at lines 14--14
-[]\T1/lmr/m/n/10.95 Fotografie, Vi-deo-gra-fie, Ver-mes-
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 14--15
-[]\T1/lmr/m/n/10.95 Rennen, Wett-be-wer-be, Freestyle-
- []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 15--16
-[]\T1/lmr/m/n/10.95 Meist, ein ei-nem fes-ten Win-kel,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-[]\T1/lmr/m/n/10.95 Deutlich län-ge-re Ak-ku-lauf-zeit,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-\T1/lmr/m/n/10.95 Deut-lich Leis-tungs-schwä-che-re
- []
-
-
-Underfull \hbox (badness 7907) in paragraph at lines 16--17
-[]\T1/lmr/m/n/10.95 Kurze Ak-ku-lauf-zei-ten, Deut-lich
- []
-
-
-Overfull \hbox (2.0138pt too wide) in paragraph at lines 8--21
-[][]  
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
-
- []
-
-[2
+) [2
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-
- []
-
-[3]) [4]
 \openout2 = `Kapitel/03_Bauteile/03_Bauteile.aux'.
 
- (Kapitel/03_Bauteile/03_Bauteile.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--10
-
- []
-
-[5
+ (Kapitel/03_Bauteile/03_Bauteile.tex) [3
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 20--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--34
-
- []
-
-[6]) [7]
 \openout2 = `Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux'.
 
- (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--11
-
- []
-
-[8
-
-
-
-] (IMG/Grafik_StabilisierungV2.pdf_tex
-<Img//Grafik_StabilisierungV2.pdf, id=36, page=1, 815.3719pt x 317.38654pt>
+ (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.tex (IMG/Grafik_StabilisierungV2.pdf_tex
+<Img//Grafik_StabilisierungV2.pdf, id=23, page=1, 815.3719pt x 317.38654pt>
 File: Img//Grafik_StabilisierungV2.pdf Graphic file (type pdf)
 <use Img//Grafik_StabilisierungV2.pdf, page 1>
 Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input line 56.
 (pdftex.def)             Requested size: 455.24411pt x 177.20737pt.
-))
-Underfull \hbox (badness 10000) in paragraph at lines 32--41
+)) [4
 
- []
 
-[9 <./Img//Grafik_StabilisierungV2.pdf>]
+
+ <./Img//Grafik_StabilisierungV2.pdf>]
 \openout2 = `"Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux"'.
 
- (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--42
-
- []
-
-[10
+ (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex) [5
 
 
 
 ] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux)) ) 
 Here is how much of TeX's memory you used:
- 6867 strings out of 475281
- 120958 string characters out of 2778251
- 474901 words of memory out of 3000000
+ 6872 strings out of 475281
+ 121206 string characters out of 2778251
+ 466072 words of memory out of 3000000
  28198 multiletter control sequences out of 15000+600000
  512589 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,13n,63p,1851b,419s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (12 pages, 142767 bytes).
+ 60i,13n,66p,389b,419s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (7 pages, 104777 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

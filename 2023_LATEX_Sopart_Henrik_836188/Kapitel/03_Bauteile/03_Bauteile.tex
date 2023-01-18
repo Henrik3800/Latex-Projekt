@@ -1,35 +1,27 @@
-\section[Bauteile]{Bauteile}
-    Sowohl FPV-Drohnen als auch normale Drohnen verwenden eine Vielzahl von Bauteilen, um Flüge zu ermöglichen und zu kontrollieren. Dazu gehören beispielsweise Propeller, Akkus, Steuerungen und Sensoren. All diese Bauteile haben, auch wenn sie in unterschiedlichen Drohnen zum Einsatz kommen die gleichen grundlegenden Funktionen, wie zum Beispiel die Bereitstellung von Antrieb und Strom, die Kontrolle der Flugbewegungen und die Navigation in der Umgebung. Jedoch gibt es enorme Unterschiede, die den Preis, die Leistung, den Anwendungsfall und viele weitere Faktoren betreffen.
-    \\ \\
-    Im weiteren Verlauf dieser Arbeit werden die Funktionen der Bauteile einer FPV-Drohne dargelegt, welche den größten Einfluss auf das Flugverhalten und die Videoqualität haben. Dazu gehören der Flight Controller (FC), der Rahmen und die Propeller. 
+%%% Henrik Sopart, 836188, Latex-Projekt %%%%
 
-\subsection[FC - Flight Controller]{FC - Flight Controller}
-    „Der Flight Controller ist das Herzstück eines Kopters und der Grund dafür, dass ein Kopter überhaupt fliegt“. Er ist eine elektronische Einheit, die dazu dient, die Flugbewegungen der Drohne zu kontrollieren und zu stabilisieren. Der Flight Controller ist mit Sensoren wie z.B. Gyroskopen und Beschleunigungsmessern ausgestattet, die ihm ermöglichen, die Position und Bewegung der Drohne zu messen und zu verarbeiten. Basierend auf diesen Messwerten und möglichen Befehlen des Nutzers, die über die Fernsteuerung übertragen werden, werden Steuersignale an die Motoren bzw. dem electronic speed controller der Drohne gesendet, um die Flugbewegungen auszuführen. Der FC kann auch mit zusätzlichen Komponenten wie GPS-Modulen oder einem Kompass ausgestattet werden, um zusätzliche Funktionen wie Navigation oder „Return to Home“ zu ermöglichen. Dies wird jedoch meist nur bei größeren FPV-Drohnen, die für den „Long Range“ Flug gedacht sind gemacht, um einen Zusätzlichen Schutz bei Signalabbruch gewährlisten zu können.
-    \\ \\
-    FPV-Flight Controller sind speziell für den Einsatz in FPV-Drohnen ausgelegt und haben einige Eigenschaften, die dies zeigen. Eines dieser Merkmale ist eine hohe Leistung und Berechnungsgeschwindigkeit. Dies führt zu einer geringen PID-Loop Dauer und nimmt so direkten Einfluss auf das Flugverhalten. Eine weitere Besonderheit, sind die frei zugänglichen und anpassbareren PID-Parameter (Proportional-Integral-Derivative), um die Flugsteuerung an die spezifischen Anforderungen und Vorlieben des Nutzers anpassen zu können.
+\section[A]{B}
 
-\subsubsection[PID - Proportional-Integral-Derivative Loop]{PID - Proportional-Integral-Derivative Loop}
-    Der PID-Loop (Proportional-Integral-Derivative Loop) wird in der Flugsteuerung von FPV-Drohnen verwendet, um die Flugbewegungen der Drohne zu stabilisieren und zu kontrollieren. Der PID-Loop besteht aus drei Hauptkomponenten:
+    \subsection[AA]{BB}
 
-    \begin{itemize}
-        \item[1.] Proportional: Die proportionalen Steuerung bezieht sich auf die aktuelle Abweichung des Systems von seinem Sollwert. Je größer die Abweichung ist, desto stärker wird die Korrektur.
-        \item[2.] Integral: Die Integralsteuerung bezieht sich auf die Summe aller Abweichungen des Systems von seinem Sollwert über einen bestimmten Zeitraum. Sie hilft dabei, kleinere Abweichungen auszugleichen und das System in seinem Sollzustand zu halten.
-        \item[3.] Derivative: Die derivative Steuerung bezieht sich auf die Änderungsrate der Abweichung des Systems von seinem Sollwert. Sie hilft dabei, das System auf Änderungen in der Umgebung schneller zu reagieren und das System stabiler zu halten.
-     \end{itemize}
+        \subsubsection[AAA]{BBB}
+    
+            \begin{itemize}
+                \item[1.] 
+                \item[2.] 
+                \item[3.] 
+            \end{itemize}
 
-     Der PID-Loop berechnet die Steuersignale für das System basierend auf den Werten der drei Komponenten und den Eingaben durch den Piloten. Anschließend werden die berechneten Steuerwerte an den ESC weitergegeben, um die Flugbewegungen der Drohne zu kontrollieren und zu stabilisieren. Die eingegebenen PID-Werte richten sich stark nach Gewicht und dem gewünschten Flugverhalten. Zusätzlich müssen allerdings auch Störgrößen wie Änderungen in der Umgebung, Verzögerungen in der Signalverarbeitung oder Einflüsse durch Vibrationen, welche Messwerte verfälschen können, beachtet werden.
-     \\ \\
-     Wenn die PID-Parameter falsch eingestellt werden, kann es im besten Fall zu einem instabilen oder trägen Flugverhalten der Drohne kommen. Im schlimmsten Fall besteht jedoch auch die Gefahr, dass die Drohne unkontrolliert in eine unerwartete Richtung fliegt und damit Personen oder Objekte in der Umgebung gefährdet. Dieses Phänomen nennt sich „Fly away“. Aus diesem Grund sind bei herkömmlichen Drohnen die PID-Werte für den Käufer nicht sichtbar und lassen sich auch nicht ändern. Dies ist bei FPV-Drohnen im Normallfall allerdings nicht möglich, da ein FC sowohl in einer schweren, langsame als auch in einer leichten und sehr agilen Drohne verbaut werden kann und so je nach Anwendungsfall vom Benutzer unterschiedlich parametriert werden muss.
+        \subsubsection[AAA]{BBB}
+ 
+    \subsection[AA]{BB}
 
-\subsubsection[Filter]{Filter}
-     Filter sind Hardware- und/oder Softwarekomponenten, welche sich auf dem FC befinden und ungewollte Vibrationen beziehungsweise Frequenzen, welche durch Sensoren aufgenommen werden minimieren. Diese Vibrationen entstehen durch aerodynamische Effekte und die Drehbewegung der Motoren und Propeller. Sie können die Werte des Gyroskops verfälschen und so zu einem unkontrollierbaren und unerwarteten Flugverhalten führen. Durch Filter kann dem entgegengewirkt werden, indem Frequenzen, welche nicht das Resultat einer Bewegung sind, sondern durch Vibrationen entstanden herausfiltert werden. Der Nachteil von Filtern liegt in der Verzögerung, die sie dem Signal hinzufügen. Dies sorgt dafür, dass eine Bewegung der Drohne den PID-Loop erst verzögert erreicht. Aus diesem Grund ist eine möglichst geringe, aber dennoch ausreichende Filterung erstrebenswert. Ein einfacher, jedoch sehr effektiver weg eine Filterung zu erreichen, ist das sogenannte „soft mounting“ des FCs. Hierbei wird der FC nicht direkt mit dem Rahmen verschraubt, sondern ist durch Gummis vom Rahmen entkoppelt. Experiment: mit/ohne gummi
-     \\ \\
-     
-\subsection[Rahmen]{Rahmen}
-    Der Rahmen, oft auch als „Frame“ bezeichnet bildet das Grundgerüst einer jeden FPV-Drohne. Er besteht aus einem leichten, aber robusten Material wie Kohlefaser und nimmt erheblichen Einfluss auf das Flugverhalten der Drohne. Die Größe des Rahmens beeinflusst nicht nur das Erscheinungsbild, sondern die gesamte Konstruktion der FPV-Drohne. Aus diesem Grund ist es unerlässlich, dass die Größe des Rahmens sorgfältig geplant und ausgewählt wird. Die Wahl des Rahmens bestimmt im weiteren Verlauf die Auswahl und Anordnung der weiteren Komponenten, wie Motoren, Propeller und Batterie, welche auf den Rahmen abgestimmt werden müssen, um ein optimales Flugverhalten zu gewährleisten.
-    \\ \\
-    Die Größe eines FPV-Drohnenrahmens wird in der Regel in Zoll (inch) angegeben und bezieht sich auf die maximale Größe der Propeller, welche an diesem verwendet werden können. Eine weitere, wichtige Kenngröße ist die Dicke des Rahmens. Ein dicker Rahmen sorgt für eine höhere Steifigkeit, was zu einem präziseren und stabileren Flug führt. Allerdings erhöht dieser auch das Gewicht und könnte so das Flugverhalten und die Manövrierfähigkeit beeinträchtigen. Ein dünner Rahmen ist leichter, bietet dadurch eine längere Akkulaufzeit und höhere Manövrierfähigkeit, kann allerdings auch anfälliger für Beschädigungen und durch die geringere Steifigkeit weniger stabil im Flug sein.
-    \\ \\
-    Zusätzlich haben die Dicke und Größe des Rahmens Einfluss auf die Weiterleitung von Vibrationen, welche durch die Motoren entstehen und sich in den Rahmen fortbewegen. Starke Vibrationen können zu Fehlern im PID-Loop führen, da Messwerte des Gyroskops und anderer Sensoren beeinträchtigt und verfälscht werden. Neben den Flugeigenschaften leidet auch die Videoqualität unter Vibrationen, welche die Kamera erreichen. Diese Vibrationen können durch einen dickeren Rahmen minimiert werden. Auch die Größe des Rahmens hat Einfluss auf die Vibrationen, so erfährt beispielsweise ein 7“ Rahmen deutlich mehr Vibrationen bei gleicher Dicke als ein 5“ Rahmen, da die Arme des 7“ Rahmens länger sind, was zu einer reduzierten Steifigkeit und somit mehr Vibrationen führt. Diesem Effekt kann durch eine passende Filterung entgegengewirkt werden.
+    \subsection[AA]{BB}
 
-\subsection[Propeller]{Propeller}
+        \begin{align}
+            n=\frac{s*3.7V*kv}{60} \qquad kv=[\frac{1}{min*V}]
+        \end{align}
+
+        \begin{align}
+            n=\frac{s*3.7V*kv}{60} \qquad kv=[\frac{1}{min*V}]
+        \end{align}

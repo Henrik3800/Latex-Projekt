@@ -1,31 +1,28 @@
-\documentclass[a4paper, 11pt]{article} % Documentklasse und Papierformat festlegen
+%%% Henrik Sopart, 836188, Latex-Projekt %%%%
 
-\usepackage[left=2.5cm, right=2.5cm]{geometry} % Ränder festlegen
-\usepackage{fancyhdr} % Um Kopf- und Fußzeilen zu gestalten
-\usepackage[utf8]{inputenc} % Encoding für Umlaute
-\usepackage[T1]{fontenc} % Font Encoding für korrekte Darstellung von Sonderzeichen
-\usepackage[ngerman]{babel} % Sprachpaket für deutsche Sprache
-\usepackage{lmodern} % Schriftart
-\usepackage{amsmath} % Mathematische Symbole und Funktionen
-\usepackage{amssymb} % Mathematische Symbole und Funktionen
-\usepackage{graphicx} % Einbinden von Grafiken
-\usepackage{caption} % Formatierung von Abbildungs- und Tabellenbeschriftungen anpassen
-\usepackage{booktabs} % Erstellen von "schöneren" Tabellen
-\usepackage{xcolor} % Farben
+% Hinzufügen der Präambel
+\input{Metadaten/Praeambel.tex}
 
-\setlength{\parindent}{0em} % Verhindert das Einrücken
-\graphicspath{{Img/}} % Pfad zu Grafikken für den Compiler
-\captionsetup[figure]{justification=raggedright,singlelinecheck=false} % "justification=raggedright" -> Beschriftungen linksbündig ; singlelinecheck=false -> keine automatische Zentrierung
+% Pfad zu Grafiken und Bildern
+\graphicspath{{Img/}}
 
-% Neue Befehlsdefinitionen, um das Erstellen des Deckblattes zu erleichtern und einfacher Anpassungen vornehmen zu können.
+% Neue Befehlsdefinitionen, um das Erstellen des Deckblattes und der Metadaten zu erleichtern
+% Angaben zur Arbeit
+\newcommand{\ArtDerArbeit}{Latex-Projekt}
 \newcommand{\Thema}{FPV Drohnen}
 \newcommand{\Unterthema}{Herausforderungen für Hard- und Software}
+\newcommand{\Studiengang}{Elektro und Informationstechnik - Dual}
+
+% Angaben zur Person
 \newcommand{\Autor}{Henrik Sopart}
-\newcommand{\Datum}{\today}
+\newcommand{\Matrikelnummer}{836188}
+\newcommand{\Aus}{Schwerte}
 
+% Angaben zur Abgabe
+\newcommand{\Bearbeitungszeitraum}{01.01.2022 - 01.01.2022}
+\newcommand{\Pruefer}{Prof. Dr. Michael Protogerakis}
 
-
-
+% Beginn der Arbeit
 \begin{document}
 
 \include{Kapitel/Deckblatt/Deckblatt.tex}
@@ -34,18 +31,10 @@
 \thispagestyle{empty}
 \setcounter{page}{0}
 
-
 \include{Kapitel/01_Einleitung/01_Einleitung.tex}
 \include{Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.tex}
 \include{Kapitel/03_Bauteile/03_Bauteile.tex}
 \include{Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.tex}
 \include{Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex}
-
-
-
-
-
-
-
 
 \end{document}

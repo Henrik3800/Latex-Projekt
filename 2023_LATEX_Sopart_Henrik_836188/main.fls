@@ -2,6 +2,10 @@ PWD d:\VS Code Projekte\LATEX\Latex-Projekt\2023_LATEX_Sopart_Henrik_836188
 INPUT C:\Users\henri\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT d:\VS Code Projekte\LATEX\Latex-Projekt\2023_LATEX_Sopart_Henrik_836188\main.tex
 OUTPUT main.log
+INPUT .\Metadaten\Praeambel.tex
+INPUT Metadaten\Praeambel.tex
+INPUT .\Metadaten\Praeambel.tex
+INPUT Metadaten\Praeambel.tex
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\base\article.cls
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\base\article.cls
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\base\article.cls
@@ -507,9 +511,9 @@ INPUT Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
 INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
 INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
 INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-rm.enc
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb

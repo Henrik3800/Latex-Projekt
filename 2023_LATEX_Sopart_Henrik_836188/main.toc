@@ -11,3 +11,4 @@
 \contentsline {subsection}{\numberline {3.2}Rahmen}{7}{}%
 \contentsline {subsection}{\numberline {3.3}Propeller}{7}{}%
 \contentsline {section}{\numberline {4}Bildstabilisierung}{8}{}%
+\contentsline {section}{\numberline {5}Zusammenfassung und Ergebnis}{10}{}%

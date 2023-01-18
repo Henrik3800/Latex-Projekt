@@ -347,6 +347,9 @@ INPUT Kapitel\03_Bauteile\03_Bauteile.aux
 INPUT .\Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
 INPUT Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
 INPUT Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
+INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
+INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
 OUTPUT main.aux
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -476,6 +479,15 @@ INPUT Img\\Grafik_StabilisierungV2.pdf
 INPUT .\Img\\Grafik_StabilisierungV2.pdf
 INPUT .\Img\\Grafik_StabilisierungV2.pdf
 INPUT .\Img\\Grafik_StabilisierungV2.pdf
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
+OUTPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
+INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
+INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
 INPUT main.aux
 INPUT .\Kapitel\Deckblatt\Deckblatt.aux
 INPUT Kapitel\Deckblatt\Deckblatt.aux
@@ -492,6 +504,9 @@ INPUT Kapitel\03_Bauteile\03_Bauteile.aux
 INPUT .\Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
 INPUT Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
 INPUT Kapitel\04_Bildstabilisierung\04_Bildstabilisierung.aux
+INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
+INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
+INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.aux
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathit.enc

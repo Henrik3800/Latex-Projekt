@@ -1,8 +1,17 @@
 %%% Henrik Sopart, 836188, Latex-Projekt %%%%
 
-\section[A]{B}
+\section[Bildstabilisierung]{Bildstabilisierung}
+    Es gibt verschiedene Arten der Bildstabilisierung. Im Zusammenhang mit Drohnen sind zwei Stabilisierungsarten am weitesten verbreitet. Die mechanische Bildstabilisierung und die digitale Bildstabilisierung.
+    \\ \\
+    Mechanische Bildstabilisierung bezieht sich auf die Verwendung von mechanischen Elementen, um die Bewegungen einer Kamera auszugleichen. Im Bereich der Drohnen wird dies durch die Verwendung eines Gimbals erreicht. Ein Gimbal ist ein dreiachsiges System, welches die Kamera stabil hält, indem es die Bewegungen auf jeder Achse bis zu einem gewissen Grad ausgleicht. Diese Art der Stabilisierung findet sich meist in herkömmlichen Drohnen.
+    \\ \\
+    Die digitale Bildstabilisierung kommt aufgrund des geringeren Gewichts meist in FPV-Drohnen zum Einsatz. Jedoch gibt es unterschiedliche Methoden, um ein Video digital zu stabilisieren. Häufig werden Algorithmen zur Bewegungserkennung verwendet, welche die Bewegungen der Kamera verfolgen und die Bilder entsprechend korrigieren. Dies geschieht in Echtzeit und erfordert wenig technisches Vorwissen in der Benutzung. Eine weitere Methode nutzen die Daten aus Bewegungssensoren, wie zum Beispiel Gyroskopen, um die Bewegungen der Kamera zusätzliche zum eigentlichen Bild zu erfassen. Anschließend werden diese Daten miteinander verglichen und das Bild entsprechend der aufgezeichneten Bewegungen angepasst. Diese Arbeit wird jedoch nicht in Echtzeit, sondern meist in einer speziellen Software durchgeführt und erfordert technisches Wissen, führt im Regelfall aber zu besseren Ergebnissen.
+    \\ \\
+    Obwohl die digitale Bildstabilisierung viele Vorteile bietet, besteht ein großer Nachteil im Vergleich zur mechanischen Stabilisierung. Der Qualitätsverlust. Da eine mechanische Stabilisierung die Kamera physikalisch bewegt und so beispielsweise immer horizontal halten kann, ist kein digitales Zoomen notwendig. Bei einer digitalen Stabilisierung muss zwangsläufig gezoomt werden, da der Rand des Videos durch die Stabilisierung beschnitten wird und sich so das Seitenverhältnis des Videos ändert. Um dem entgegenzuwirken, wird digital in das Bild gezoomt, bis das gewünschte Seitenverhältnis erreicht und das Bild ausgefüllt ist. Bei diesem Vorgang geht jedoch ein Teil der Auflösung verloren. Dies ist in der folgenden Grafik vereinfacht an einem Beispiel dargestellt.
+    \\ \\
+    Den Ausgangszustand und somit die Eingabe der Stabilisierung bildet ein um 90 Grad gedrehtes Bild einer nicht mechanisch stabilisierten Kamera, welches in der Abbildung in schwarz dargestellt ist. Das Bild hat aufgrund der 90 Grad Drehung das Format 9:16 und die Auflösung 1080x1920. Soll dieses Bild nun horizontal im 16:9-Format stabilisiert werden, kann eine hier in Blau dargestellte Maske im gewünschten Seitenverhältnis über die Eingabe gelegt werden. Da die neue Maske jedoch 1920 und nicht 1080 Pixel in der Horizontalen besitzt, haben 840 Pixel pro Reihe keinen Wert und bilden somit schwarze Balken an den Seiten. Um dem entgegenzuwirken, wird die Maske auf die Größe der Eingabe skaliert. Da das Seitenverhältnis beibehalten werden soll, muss dies sowohl für die Horizontale als auch für die Vertikale gelten. Dieser Schritt ist in Grün dargestellt.
 
-    \begin{figure}[h]
+    \begin{figure}[ht]
         \centering
         \def\svgwidth{\linewidth}
         \input{IMG/Grafik_StabilisierungV2.pdf_tex}
@@ -11,6 +20,12 @@
         \label{vektorgrafik}
     \end{figure}
     
+    Es lässt sich eindeutig erkenne, dass ein großer Teil der Auflösung fehlt, das Endresultat jedoch ein Bild im 16:9-Format ist. Dieses vorgehen lässt sich auf jedes Bild eines Videos anwenden, um ein horizontal stabilisiertes Video zu erhalten. Bei einer geringeren Drehung der Eingabe beispielsweise um 5 Grad, ist der Verlust aufgrund der Stabilisierung deutlich geringer. Mathematisch lässt sich der Unterschied zwischen Ein- und Ausgabe durch die folgende Formel beschreiben.
+
     \begin{equation}
         \frac{A_x*A_y}{E_x*E_y}*100\%
     \end{equation}
+
+    Hierbei stehen $A_x$ und $A_y$ für die Länge und Breite der Ausgabe in Pixeln, $E_x$ und $E_y$ analog für die Länge und Breite der Eingabe. Das Ergebnis gibt relativ zur Eingabe an, wie viel Prozent der ursprünglichen Pixel in der Ausgabe enthalten sind.
+    \\ \\
+    Obwohl diese Problematik auf den ersten Blick nach einem Ausschlusskriterium für die digitale Bildstabilisierung aussieht, spielt es in der Realität eine geringe Rolle. Moderne Kameras sind in der Lage, in unterschiedlichen Formaten und Auflösungen aufnahmen anzufertigen. Wäre die Eingabe beispielsweise im 4:3-Format erfolgt, hätte die Ausgabe eine höhere Qualität, da weniger gezoomt werden müsste. Eine genauere Betrachtung des Einflusses und des Zusammenspieles aus Format und Auflösung in Verbindung mit digitaler Bildstabilisierung ist aufgrund des Umfangs dieser Arbeit nicht möglich. Ein weiterer Vorteil der digitalen Stabilisierung ist die Flexibilität. Da das Video digital bearbeitet wird, besteht die Möglichkeit, im Schnitt Einfluss auf die Stärke der Stabilisierung zu nehmen. So kann beispielsweise eine Szene, die ein Autorennen zeigt, weniger stabilisiert werden, um einen besseren Eindruck der Geschwindigkeit zu vermitteln.

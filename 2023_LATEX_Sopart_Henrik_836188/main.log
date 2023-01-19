@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  19 JAN 2023 20:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  20 JAN 2023 00:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -221,6 +221,10 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count276
 \c@continuedfloat=\count277
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count278
+\c@subtable=\count279
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen169
@@ -233,12 +237,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen176
 \cmidrulekern=\dimen177
 \defaultaddspace=\dimen178
-\@cmidla=\count278
-\@cmidlb=\count279
+\@cmidla=\count280
+\@cmidlb=\count281
 \@aboverulesep=\dimen179
 \@belowrulesep=\dimen180
-\@thisruleclass=\count280
-\@lastruleclass=\count281
+\@thisruleclass=\count282
+\@lastruleclass=\count283
 \@thisrulewidth=\dimen181
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
@@ -256,31 +260,78 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen182
+\ttl@minus=\dimen183
+\ttl@toksa=\toks25
+\titlewidth=\dimen184
+\titlewidthlast=\dimen185
+\titlewidthfirst=\dimen186
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip64
+\cftbeforetoctitleskip=\skip65
+\cftaftertoctitleskip=\skip66
+\cftbeforepartskip=\skip67
+\cftpartnumwidth=\skip68
+\cftpartindent=\skip69
+\cftbeforesecskip=\skip70
+\cftsecindent=\skip71
+\cftsecnumwidth=\skip72
+\cftbeforesubsecskip=\skip73
+\cftsubsecindent=\skip74
+\cftsubsecnumwidth=\skip75
+\cftbeforesubsubsecskip=\skip76
+\cftsubsubsecindent=\skip77
+\cftsubsubsecnumwidth=\skip78
+\cftbeforeparaskip=\skip79
+\cftparaindent=\skip80
+\cftparanumwidth=\skip81
+\cftbeforesubparaskip=\skip82
+\cftsubparaindent=\skip83
+\cftsubparanumwidth=\skip84
+\cftbeforeloftitleskip=\skip85
+\cftafterloftitleskip=\skip86
+\cftbeforefigskip=\skip87
+\cftfigindent=\skip88
+\cftfignumwidth=\skip89
+\c@lofdepth=\count284
+\c@lotdepth=\count285
+\cftbeforelottitleskip=\skip90
+\cftafterlottitleskip=\skip91
+\cftbeforetabskip=\skip92
+\cfttabindent=\skip93
+\cfttabnumwidth=\skip94
 ))
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 26.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 27.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count282
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box54
 ) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -318,17 +369,17 @@ LaTeX Font Info:    ... okay on input line 26.
 
 (D:\Program Files (x86)\LATEX\MikTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
-\scratchdimen=\dimen182
-\scratchbox=\box54
-\nofMPsegments=\count284
-\nofMParguments=\count285
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count286
-\MPscratchDim=\dimen183
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count287
+\scratchdimen=\dimen187
+\scratchbox=\box55
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen188
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks27
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -339,40 +390,45 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `Kapitel/Deckblatt/Deckblatt.aux'.
 
- (Kapitel/Deckblatt/Deckblatt.tex [1
-
-
-{C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (main.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+ (Kapitel/Deckblatt/Deckblatt.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 12.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 12.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 12.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 12.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 4.
+(Font)              <10.95> on input line 12.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+(Font)              <6> on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 12--25
+[][]
+ []
+
+[1
+
+
+{C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
@@ -383,22 +439,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `Kapitel/01_Einleitung/01_Einleitung.aux'.
 
  (Kapitel/01_Einleitung/01_Einleitung.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 4--34
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--34
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--34
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--34
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
 
  []
 
@@ -452,31 +508,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 \T1/lmr/m/n/10.95 selbst zu-sam-men-ge-baut und
  []
 
-
-Overfull \hbox (2.0138pt too wide) in paragraph at lines 9--21
-[][]  
- []
-
 [2
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 29--35
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--35
+Underfull \hbox (badness 10000) in paragraph at lines 31--38
 
  []
 
-[3] [4]
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--38
+
+ []
+
+[3]
+<Img/Bild_DJIMavic3.jpg, id=22, 1053.9375pt x 636.3775pt>
+File: Img/Bild_DJIMavic3.jpg Graphic file (type jpg)
+<use Img/Bild_DJIMavic3.jpg>
+Package pdftex.def Info: Img/Bild_DJIMavic3.jpg  used on input line 44.
+(pdftex.def)             Requested size: 204.85846pt x 123.69012pt.
+<Img/Bild_FPV.jpg, id=23, 702.625pt x 452.69125pt>
+File: Img/Bild_FPV.jpg Graphic file (type jpg)
+<use Img/Bild_FPV.jpg>
+Package pdftex.def Info: Img/Bild_FPV.jpg  used on input line 51.
+(pdftex.def)             Requested size: 204.85846pt x 131.98857pt.
+) [4 <./Img/Bild_DJIMavic3.jpg> <./Img/Bild_FPV.jpg>]
 \openout2 = `Kapitel/03_Bauteile/03_Bauteile.aux'.
 
  (Kapitel/03_Bauteile/03_Bauteile.tex
@@ -547,7 +614,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--13
  []
 
 (IMG/Grafik_StabilisierungV2.pdf_tex
-<Img//Grafik_StabilisierungV2.pdf, id=39, page=1, 815.3719pt x 317.38654pt>
+<Img//Grafik_StabilisierungV2.pdf, id=43, page=1, 815.3719pt x 317.38654pt>
 File: Img//Grafik_StabilisierungV2.pdf Graphic file (type pdf)
 <use Img//Grafik_StabilisierungV2.pdf, page 1>
 Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input line 56.
@@ -557,7 +624,7 @@ Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input 
 
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 29--37
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
 
  []
 
@@ -565,12 +632,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--37
 \openout2 = `"Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux"'.
 
  (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 4--38
+Underfull \hbox (badness 10000) in paragraph at lines 4--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--38
+Underfull \hbox (badness 10000) in paragraph at lines 4--39
 
  []
 
@@ -580,17 +647,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--38
 
 ] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux)) ) 
 Here is how much of TeX's memory you used:
- 6883 strings out of 475281
- 121351 string characters out of 2778251
- 474077 words of memory out of 3000000
- 28209 multiletter control sequences out of 15000+600000
- 512589 words of font info for 56 fonts, out of 8000000 for 9000
+ 7593 strings out of 475281
+ 132541 string characters out of 2778251
+ 489729 words of memory out of 3000000
+ 28905 multiletter control sequences out of 15000+600000
+ 512581 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,66p,1936b,419s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (13 pages, 149265 bytes).
+ 60i,13n,66p,1936b,504s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr17.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (13 pages, 354079 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

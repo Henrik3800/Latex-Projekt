@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  20 JAN 2023 00:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  20 JAN 2023 15:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -307,14 +307,71 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforetabskip=\skip92
 \cfttabindent=\skip93
 \cfttabnumwidth=\skip94
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2022-12-05 v3.1.11 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen187
+\l__siunitx_angle_marker_box=\box54
+\l__siunitx_angle_unit_box=\box55
+\l__siunitx_compound_count_int=\count286
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
 ))
+\l__siunitx_number_exponent_fixed_int=\count288
+\l__siunitx_number_min_decimal_int=\count289
+\l__siunitx_number_min_integer_int=\count290
+\l__siunitx_number_round_precision_int=\count291
+\l__siunitx_number_group_first_int=\count292
+\l__siunitx_number_group_size_int=\count293
+\l__siunitx_number_group_minimum_int=\count294
+\l__siunitx_table_tmp_box=\box56
+\l__siunitx_table_tmp_dim=\dimen188
+\l__siunitx_table_column_width_dim=\dimen189
+\l__siunitx_table_integer_box=\box57
+\l__siunitx_table_decimal_box=\box58
+\l__siunitx_table_before_box=\box59
+\l__siunitx_table_after_box=\box60
+\l__siunitx_table_before_dim=\dimen190
+\l__siunitx_table_carry_dim=\dimen191
+\l__siunitx_unit_tmp_int=\count295
+\l__siunitx_unit_position_int=\count296
+\l__siunitx_unit_total_int=\count297
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen192
+\ar@mcellbox=\box61
+\extrarowheight=\dimen193
+\NC@list=\toks26
+\extratabsurround=\skip95
+\backup@length=\skip96
+\ar@cellbox=\box62
+))
+
+Package siunitx Info: Option "separate-uncertainty" has been deprecated in
+(siunitx)             this release.
+(siunitx)             
+(siunitx)             Use "uncertainty-mode = separate" as a replacement.
+
+)
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 27.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box63
 ) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux))
 \openout1 = `main.aux'.
 
@@ -369,17 +426,17 @@ LaTeX Font Info:    ... okay on input line 27.
 
 (D:\Program Files (x86)\LATEX\MikTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
-\scratchdimen=\dimen187
-\scratchbox=\box55
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count290
-\MPscratchDim=\dimen188
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count299
+\scratchdimen=\dimen194
+\scratchbox=\box64
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen195
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks28
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -388,6 +445,10 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/translations/dicts\translations-basic-dictionary-german.trsl
+File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 27.
 \openout2 = `Kapitel/Deckblatt/Deckblatt.aux'.
 
  (Kapitel/Deckblatt/Deckblatt.tex
@@ -458,6 +519,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--35
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--35
+
+ []
+
 [1
 
 ]
@@ -465,47 +531,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--35
 
  (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.tex
 Underfull \hbox (badness 2165) in paragraph at lines 14--14
-[]\T1/lmr/m/n/10.95 Flug über Sicht-li-nie oder Bild-
+[]|\T1/lmr/m/n/10.95 Flug über Sicht-li-nie oder Bild-
  []
 
 
 Overfull \hbox (5.37434pt too wide) in paragraph at lines 15--15
-[]\T1/lmr/m/n/10.95 Verwendungszweck| 
+[]|\T1/lmr/m/n/10.95 Verwendungszweck| 
  []
 
 
 Underfull \hbox (badness 4954) in paragraph at lines 15--15
-[]\T1/lmr/m/n/10.95 Fotografie, Vi-deo-gra-fie, Ver-mes-
+[]|\T1/lmr/m/n/10.95 Fotografie, Vi-deo-gra-fie, Ver-mes-
  []
 
 
 Underfull \hbox (badness 1231) in paragraph at lines 15--16
-[]\T1/lmr/m/n/10.95 Rennen, Wett-be-wer-be, Freestyle-
+[]|\T1/lmr/m/n/10.95 Rennen, Wett-be-wer-be, Freestyle-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]\T1/lmr/m/n/10.95 Weitere Be-son-
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/lmr/m/n/10.95 Geschwindigkeit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-[]\T1/lmr/m/n/10.95 Kurze Ak-ku-lauf-zei-ten, deut-lich
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/lmr/m/n/10.95 Geringere Ge-schwin-dig-keit und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-\T1/lmr/m/n/10.95 leis-tungs-stär-ke-re Mo-to-ren, sehr
- []
-
-
-Underfull \hbox (badness 6808) in paragraph at lines 17--18
-\T1/lmr/m/n/10.95 agil und ma-nö-vrier-fä-hig, muss
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-\T1/lmr/m/n/10.95 selbst zu-sam-men-ge-baut und
+Underfull \hbox (badness 3803) in paragraph at lines 18--18
+\T1/lmr/m/n/10.95 Agi-li-tät, die Ma-vic 3 ist bei-
  []
 
 [2
@@ -513,35 +569,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 26--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--38
+Underfull \hbox (badness 10000) in paragraph at lines 32--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--38
+Underfull \hbox (badness 10000) in paragraph at lines 32--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--38
+Underfull \hbox (badness 10000) in paragraph at lines 32--39
 
  []
 
 [3]
-<Img/Bild_DJIMavic3.jpg, id=22, 1053.9375pt x 636.3775pt>
+<Img/Bild_DJIMavic3.jpg, id=25, 1053.9375pt x 636.3775pt>
 File: Img/Bild_DJIMavic3.jpg Graphic file (type jpg)
 <use Img/Bild_DJIMavic3.jpg>
-Package pdftex.def Info: Img/Bild_DJIMavic3.jpg  used on input line 44.
+Package pdftex.def Info: Img/Bild_DJIMavic3.jpg  used on input line 45.
 (pdftex.def)             Requested size: 204.85846pt x 123.69012pt.
-<Img/Bild_FPV.jpg, id=23, 702.625pt x 452.69125pt>
+<Img/Bild_FPV.jpg, id=26, 702.625pt x 452.69125pt>
 File: Img/Bild_FPV.jpg Graphic file (type jpg)
 <use Img/Bild_FPV.jpg>
-Package pdftex.def Info: Img/Bild_FPV.jpg  used on input line 51.
+Package pdftex.def Info: Img/Bild_FPV.jpg  used on input line 52.
 (pdftex.def)             Requested size: 204.85846pt x 131.98857pt.
 ) [4 <./Img/Bild_DJIMavic3.jpg> <./Img/Bild_FPV.jpg>]
 \openout2 = `Kapitel/03_Bauteile/03_Bauteile.aux'.
@@ -614,7 +670,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--13
  []
 
 (IMG/Grafik_StabilisierungV2.pdf_tex
-<Img//Grafik_StabilisierungV2.pdf, id=43, page=1, 815.3719pt x 317.38654pt>
+<Img//Grafik_StabilisierungV2.pdf, id=45, page=1, 815.3719pt x 317.38654pt>
 File: Img//Grafik_StabilisierungV2.pdf Graphic file (type pdf)
 <use Img//Grafik_StabilisierungV2.pdf, page 1>
 Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input line 56.
@@ -647,17 +703,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--39
 
 ] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux)) ) 
 Here is how much of TeX's memory you used:
- 7593 strings out of 475281
- 132541 string characters out of 2778251
- 489729 words of memory out of 3000000
- 28905 multiletter control sequences out of 15000+600000
+ 11712 strings out of 475281
+ 251527 string characters out of 2778251
+ 574118 words of memory out of 3000000
+ 32992 multiletter control sequences out of 15000+600000
  512581 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,66p,1936b,504s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr17.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (13 pages, 354079 bytes).
+ 76i,13n,80p,1936b,746s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr17.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (13 pages, 382952 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 107 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

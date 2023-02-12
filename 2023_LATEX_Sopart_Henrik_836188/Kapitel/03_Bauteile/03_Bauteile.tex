@@ -79,16 +79,62 @@
         sogenannte „soft mounting“ des FCs. Hierbei wird der FC nicht direkt mit dem Rahmen verschraubt,
         sondern ist durch Gummis vom Rahmen entkoppelt. \\
         \\
+        Um die Wichtigkeit und den Einfluss von Filtern zu verdeutlichen, wurde eine Experiment durchgeführt.
+        In diesem Experiment wurden sämtliche Daten des Gyroskops und des Flight Controller wären des Fluges
+        aufgezeichnet und anschließend mit einer speziellen Software (Betaflight - Blackbox Explorer)
+        veranschaulicht. Um die Reproduzierbarkeit und Transparenz zu ermöglichen, werden die verwendeten
+        Bauteile der Drohne im Folgenden dargestellt. \\
 
+        \begin{itemize}
+            \item[] Propeller: AZURE 5145 Vanover 5,1" 3-Blatt
+            \item[] Motoren: T Motor Pacer V2 2306 (1950$kv$)
+            \item[] Rahmen: Lumenier QAV-S JohnnyFPV 5"
+            \item[] Flight Controller: MAMBA F722 MK3 F7
+            \item[] Gewicht: 650g
+        \end{itemize}
+       
 
-        Hier soll das Experiment hin.
+        In den folgenden Diagrammen sind die ausgewerteten Daten des Flugschreibers dargestellt. Beide
+        Diagramme beziehen sich auf die gleiche Bewegungsachse (Querachse) und beschreiben den gleichen Flug.
 
+        \begin{figure}[h]
+            \centering
+            \begin{subfigure}[b]{0.49\textwidth}
+                \centering
+                \includegraphics[width=\textwidth]{Img/Diagramm_vor_Filterung_PitchAchse}
+                \caption{Signal vor der Filterung}
+                \label{VorFilterung}
+            \end{subfigure}
+            \hfill
+            \begin{subfigure}[b]{0.49\textwidth}
+                \centering
+                \includegraphics[width=\textwidth]{Img/Diagramm_nach_Filterung_PitchAchse}
+                \caption{Signal nach der Filterung}
+                \label{NachFilterung}
+            \end{subfigure}
+               \caption{Auswirkungen einer korrekten Filterung}
+               \label{AuswirkungenFilterung}
+       \end{figure}
 
-
-
-
-
-         
+       Auf der horizontalen Achse der Abbildung \ref*{VorFilterung} und \ref*{NachFilterung} ist jeweils die Frequenz der Vibration bzw.
+       Bewegung dargestellt. Die vertikale Achse beschreibt die Amplitude und somit die Intensität. \\
+       \\
+       Abbildung \ref*{VorFilterung} zeigt das ungefilterte Signal des Gyroskops, welches ein hohes Maß an Rauschen aufweist.
+       Neben einem hohen Grundrauschen lassen sich zwei Effekte besonders gut erkennen. Zum einen das
+       sogenannte „prop wash“, welches in Abbildung a durch die Zahl 1 gekennzeichnet ist, zum anderen
+       die Resonanzfrequenz des Systems, welche sich bei ungefähr \qty{200}{\Hz} mit einer hohen Amplitude zeigt
+       und mit der Nummer 2 gekennzeichnet ist. \\
+       \\
+       In Abbildung \ref*{NachFilterung} lässt sich das identische, jedoch gefilterte Signal des Gyroskops erkennen. Dieses
+       Signal wird im weiteren Verlauf dem PID-Loop als „Ist-Wert“ zur Verfügung gestellt. In Abbildung \ref*{NachFilterung} lässt
+       sich eindeutig erkennen, dass ein Großteil der Frequenzen herausgefiltert worden ist. Jedoch noch
+       immer ein geringfügiges Rauschen im Bereich von \qty{200}{\Hz} vorhanden ist. Da die Amplitude dieser Störungen
+       jedoch im Vergleich zu den eigentlichen Bewegungen der Drohne minimal ist, kann diese vernachlässigt werden. \\
+       \\
+       Frequenzen unterhalb von \qty{100}{\Hz} werden im Normalfall nicht gefiltert bzw. gedämpft, da diese Frequenzen
+       das Resultat einer tatsächlichen Bewegung der Drohne darstellen. Dies kann sowohl in Abbildung \ref*{VorFilterung} als auch
+       in Abbildung \ref*{NachFilterung} beobachtet werden. Die betroffenen Bereiche sind mit der Zahl 0 in beiden Abbildungen markiert.
+        
     \subsection[Rahmen]{Rahmen}
         Der Rahmen, oft auch als „Frame“ bezeichnet, bildet das Grundgerüst einer jeden FPV-Drohne.
         Er besteht aus einem leichten, aber robusten Material wie Kohlefaser und nimmt erheblichen

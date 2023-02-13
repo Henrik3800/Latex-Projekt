@@ -76,7 +76,9 @@
         unkontrollierbaren und unerwarteten Flugverhalten führen. Durch Filter kann dem entgegengewirkt
         werden, indem Frequenzen, welche nicht das Resultat einer Bewegung sind, sondern durch Vibrationen
         entstanden, herausfiltert werden. Der Nachteil von Filtern liegt in der Verzögerung, die sie
-        dem Signal hinzufügen. Dies sorgt dafür, dass eine Bewegung der Drohne den PID-Loop erst verzögert
+        dem Signal hinzufügen.
+        \newpage
+        Dies sorgt dafür, dass eine Bewegung der Drohne den PID-Loop erst verzögert
         erreicht. Aus diesem Grund ist eine möglichst geringe, aber dennoch ausreichende Filterung
         erstrebenswert. Ein Einfacher, jedoch sehr effektiver weg eine Filterung zu erreichen, ist das
         sogenannte „soft mounting“ des FCs. Hierbei wird der FC nicht direkt mit dem Rahmen verschraubt,
@@ -120,8 +122,11 @@
                \label{AuswirkungenFilterung}
        \end{figure}
 
-       Auf der horizontalen Achse der Abbildung \ref*{VorFilterung} und \ref*{NachFilterung} ist jeweils die Frequenz der Vibration bzw.
-       Bewegung dargestellt. Die vertikale Achse beschreibt die Amplitude und somit die Intensität. \\
+       Für die folgende Betrachtung der Diagramme werden keine Werte benötigt. Das Experiment soll nur
+       einen Überblick über die Möglichkeiten einer korrekten Filterung darlegen und Grafisch zeigen,
+       wie sich dies im Signal bemerkbar macht. Auf der horizontalen Achse der Abbildung \ref*{VorFilterung}
+       und \ref*{NachFilterung} ist jeweils die Frequenz der Vibration bzw. Bewegung dargestellt.
+       Die vertikale Achse beschreibt die Amplitude und somit die Intensität. \\
        \\
        Abbildung \ref*{VorFilterung} zeigt das ungefilterte Signal des Gyroskops, welches ein hohes Maß an Rauschen aufweist.
        Neben einem hohen Grundrauschen lassen sich zwei Effekte besonders gut erkennen. Zum einen das
@@ -195,7 +200,7 @@
         Geschwindigkeiten des Propellers, welcher möglicherweise durch den Defekt nicht mehr exakt ausgewuchtet
         ist, zu Vibrationen kommen. Aufgrund der Intensität diese kann der FC sie unter Umständen nicht korrekt
         filtern, was in unkontrollierten Bewegungen der Drohne resultieren würde. \\
-        \\
+        \newpage
         Die Geschwindigkeit des Propellers wird durch zwei Faktoren beeinflusst. Zum einen durch die Spannung,
         welche am Motor anliegt und zum anderen durch den $kv$-Wert (Umdrehungen pro Minute pro Volt,
         $\frac{1}{\si{\minute}\cdot \si{\volt}}$), den dieser Motor besitzt. In der folgenden Rechnung wird

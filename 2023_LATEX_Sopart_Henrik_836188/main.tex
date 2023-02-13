@@ -1,13 +1,5 @@
 %%% Henrik Sopart, 836188, Latex-Projekt %%%%
 
-%% TODO %%%
-% Ref verwenden
-
-
-
-
-
-
 % Hinzufügen der Präambel
 \input{Metadaten/Praeambel.tex}
 
@@ -37,24 +29,30 @@
 % Beginn der Arbeit
 \begin{document}
 
+% Deckblatt hinzufügen
 \include{Kapitel/Deckblatt/Deckblatt.tex}
 
+%Inhaltsverzeichnis
+% Automatisches Inhaltsverzeichnis
 \tableofcontents
+% Keine Nummerierung des Inhaltsverzeichnisses
 \thispagestyle{empty}
+% Setzt den Seitenzähler auf Null zurück, so dass die nächste Seite als erste Seite numeriert wird.
 \setcounter{page}{0}
 
+% Kapitel hinzufügen
 \include{Kapitel/01_Einleitung/01_Einleitung.tex}
 \include{Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.tex}
 \include{Kapitel/03_Bauteile/03_Bauteile.tex}
 \include{Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.tex}
 \include{Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex}
 
-% Dieser Befehl zitiert alle Einträge im Literaturverzeichnis
+% Zitiert alle Einträge im Literaturverzeichnis, auch wenn man sie nicht extrem mit cite aufgerufen hat
 \nocite{*} 
 
 % Erstellung des Literaturverzeichnisses
 \printbibliography
+% Fügt Literaturverzeichnisses dem INhaltsverzeichnis hinzu
 \addcontentsline{toc}{section}{\protect\numberline{6}Literaturverzeichnis}
-
 
 \end{document}

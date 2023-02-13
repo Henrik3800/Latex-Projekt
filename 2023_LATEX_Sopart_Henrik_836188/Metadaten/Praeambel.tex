@@ -1,3 +1,5 @@
+%%% Henrik Sopart, 836188, Latex-Projekt %%%%
+
 \documentclass[a4paper, 11pt]{article} % Documentklasse und Papierformat festlegen
 
 \usepackage[left=2.5cm, right=2.5cm]{geometry} % Ränder festlegen
@@ -9,19 +11,18 @@
 \usepackage{amsmath} % Mathematische Symbole und Funktionen
 \usepackage{amssymb} % Mathematische Symbole und Funktionen
 \usepackage{graphicx} % Einbinden von Grafiken
-\usepackage{caption}
+\usepackage{caption} % Bildunterschriften verbessern
 \usepackage{subcaption}
 \usepackage{booktabs} % Erstellen von "schöneren" Tabellen
 \usepackage{xcolor} % Farben
-\usepackage{titlesec}
-\usepackage{tocloft}
-\usepackage{siunitx}
-\usepackage[backend=biber]{biblatex}
-
+\usepackage{titlesec} % Anpassen der Formatierung von Abschnittstiteln
+\usepackage{tocloft} % Anpassen des Inhaltsverzeichnisses
+\usepackage{siunitx} % Darstellung von Einheiten
+\usepackage[backend=biber]{biblatex} % Literaturverzeichnis, biber wegen UTF-8
 
 
 
 \setlength{\parindent}{0cm} % Verhindert das Einrücken
 \captionsetup[figure]{justification=raggedright,singlelinecheck=false} % "justification=raggedright" -> Beschriftungen linksbündig ; singlelinecheck=false -> keine automatische Zentrierung
 \captionsetup[table]{justification=raggedright,singlelinecheck=false} % "justification=raggedright" -> Beschriftungen linksbündig ; singlelinecheck=false -> keine automatische Zentrierung
-\sisetup{locale = DE, per-mode = fraction, separate-uncertainty}
+\sisetup{locale = DE, per-mode = fraction, separate-uncertainty} % Darstellung von Einheiten, Trennung etc. auf deutsch

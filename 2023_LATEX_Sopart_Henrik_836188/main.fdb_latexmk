@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1676250665 "main.bcf" "main.bbl" "main" 1676250671 0
+["biber main"] 1676250665 "main.bcf" "main.bbl" "main" 1676251251 0
   "Referenzen/Referenzen.bib" 1676250665 3254 ecfa716657f72ebdfc4e365b71e2da0a ""
-  "main.bcf" 1676250671 107979 61a70d6ec0563e342d442bfccbecb48a "pdflatex"
+  "main.bcf" 1676251250 107979 61a70d6ec0563e342d442bfccbecb48a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1676250669 "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" "main.pdf" "main" 1676250671 0
+["pdflatex"] 1676251249 "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" "main.pdf" "main" 1676251251 0
   "C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1676247868 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/henri/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1671377362 10800850 40875a25f727147821dd43699191a620 ""
   "D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -135,25 +135,25 @@
   "Img/Bild_FPV.jpg" 1674161324 85830 b1fe35c2f554da8b3e23d932284d7f8e ""
   "Img/Diagramm_nach_Filterung_PitchAchse.png" 1676233009 213351 ebc78038bdd43a14d3bbd013f716749b ""
   "Img/Diagramm_vor_Filterung_PitchAchse.png" 1676232638 719381 490074a1a79b428333ddee5cc5c7c454 ""
-  "Kapitel/01_Einleitung/01_Einleitung.aux" 1676250670 3970 cb7d084949f633bf7d155774634d0a36 "pdflatex"
+  "Kapitel/01_Einleitung/01_Einleitung.aux" 1676251250 3970 cb7d084949f633bf7d155774634d0a36 "pdflatex"
   "Kapitel/01_Einleitung/01_Einleitung.tex" 1676241796 3186 63f48234725d164f4852c4f4857b627b ""
-  "Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux" 1676250671 4756 a48a3f445df81ab965b7290367682e7a "pdflatex"
+  "Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux" 1676251250 4756 a48a3f445df81ab965b7290367682e7a "pdflatex"
   "Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.tex" 1676250665 9256 ef1b2a30bd13196291376c5c2947d09c ""
-  "Kapitel/03_Bauteile/03_Bauteile.aux" 1676250671 4816 8d1c65c1aadd875f41981f0d7ab2d4e5 "pdflatex"
+  "Kapitel/03_Bauteile/03_Bauteile.aux" 1676251250 4816 8d1c65c1aadd875f41981f0d7ab2d4e5 "pdflatex"
   "Kapitel/03_Bauteile/03_Bauteile.tex" 1676246963 17901 f41ae14fc27f5edfaa91ccfed6b71dbb ""
-  "Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux" 1676250671 4145 522daba3d7011dbfc8c62194fd73af2c "pdflatex"
+  "Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux" 1676251250 4145 522daba3d7011dbfc8c62194fd73af2c "pdflatex"
   "Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.tex" 1674247553 5657 ae26a440b7e8f019fc3653ff97476e41 ""
-  "Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux" 1676250671 4027 3dead39c94c82d4304a088aacdf4b262 "pdflatex"
+  "Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux" 1676251250 4027 3dead39c94c82d4304a088aacdf4b262 "pdflatex"
   "Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex" 1674247553 3512 d634cd8b9da7d2c9f2b079f83cbcdae9 ""
-  "Kapitel/Deckblatt/Deckblatt.aux" 1676250670 4016 b28af8890b21cc9b3cc80b3411f3fd6d "pdflatex"
+  "Kapitel/Deckblatt/Deckblatt.aux" 1676251250 4016 b28af8890b21cc9b3cc80b3411f3fd6d "pdflatex"
   "Kapitel/Deckblatt/Deckblatt.tex" 1674213850 1186 b211e633631ef14a59ae2ed09f1ab169 ""
-  "Metadaten/Praeambel.tex" 1676247939 1378 f43a4c1574e9d5d725f9a8ee0a382ed1 ""
-  "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" 1676248149 1619 4063ac34f6a93f5feeb93ce0bd0966ad ""
-  "main.aux" 1676250671 2347 5d384bb347203365c524ed87e133e0cf "pdflatex"
+  "Metadaten/Praeambel.tex" 1676251248 1668 d704e23dbeee62d57f49d4ab4402a0fc ""
+  "d:/VS Code Projekte/LATEX/Latex-Projekt/2023_LATEX_Sopart_Henrik_836188/main.tex" 1676251248 1936 5ad74a81e11a35715aca9fc83f0e9782 ""
+  "main.aux" 1676251250 2347 5d384bb347203365c524ed87e133e0cf "pdflatex"
   "main.bbl" 1676250667 12924 20d2c9a9d95230efb88240419e7be719 "biber main"
-  "main.run.xml" 1676250671 2346 99ccd3ad56dc962022c39f4d3a90fb3a "pdflatex"
-  "main.tex" 1676248149 1619 4063ac34f6a93f5feeb93ce0bd0966ad ""
-  "main.toc" 1676250671 917 f6e4054a5009c141258a250f8ff1c631 "pdflatex"
+  "main.run.xml" 1676251250 2346 99ccd3ad56dc962022c39f4d3a90fb3a "pdflatex"
+  "main.tex" 1676251248 1936 5ad74a81e11a35715aca9fc83f0e9782 ""
+  "main.toc" 1676251250 917 f6e4054a5009c141258a250f8ff1c631 "pdflatex"
   (generated)
   "Kapitel/01_Einleitung/01_Einleitung.aux"
   "Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux"

@@ -1,0 +1,348 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{DJIAvatar}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{Avata}
+      \field{urlday}{18}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dji.com/avata
+      \endverb
+      \verb{url}
+      \verb https://www.dji.com/avata
+      \endverb
+    \endentry
+    \entry{ChrisRosserYoutube}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{Chris Rosser / YouTube}
+      \field{urlday}{28}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/@ChrisRosser/featured
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/@ChrisRosser/featured
+      \endverb
+    \endentry
+    \entry{Stabilisation}{online}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{title}{Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf
+      \endverb
+      \verb{url}
+      \verb https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf
+      \endverb
+    \endentry
+    \entry{FCZitat}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{title}{Flugsteuerung und Flight Controller | RCTech FPV Racing Equipment}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.rctech.de/flugelektronik/fc-flugsteuerung.html
+      \endverb
+      \verb{url}
+      \verb https://www.rctech.de/flugelektronik/fc-flugsteuerung.html
+      \endverb
+    \endentry
+    \entry{DJIFpv}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{title}{FPV - Redefine Flying}
+      \field{urlday}{18}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dji.com/dji-fpv?site=brandsite
+      \endverb
+      \verb{url}
+      \verb https://www.dji.com/dji-fpv?site=brandsite
+      \endverb
+    \endentry
+    \entry{10.5555/559915}{book}{}
+      \name{author}{3}{}{%
+        {{hash=fed51b16ca29aaff41a16a15cd83aab5}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Gene\bibnamedelima F.},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=25d9799c7566ba38ca3740c0e78c507a}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9e65f50d603a7e9a41e3a314b2a943e5}{%
+           family={Emami-Naeini},
+           familyi={E\bibinithyphendelim N\bibinitperiod},
+           given={Abbas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall PTR}%
+      }
+      \strng{namehash}{793a1856132bc9ebdbdb7d4f0747ba53}
+      \strng{fullhash}{793a1856132bc9ebdbdb7d4f0747ba53}
+      \strng{bibnamehash}{793a1856132bc9ebdbdb7d4f0747ba53}
+      \strng{authorbibnamehash}{793a1856132bc9ebdbdb7d4f0747ba53}
+      \strng{authornamehash}{793a1856132bc9ebdbdb7d4f0747ba53}
+      \strng{authorfullhash}{793a1856132bc9ebdbdb7d4f0747ba53}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{isbn}{0130323934}
+      \field{title}{Feedback Control of Dynamic Systems}
+      \field{year}{2001}
+      \true{nocite}
+    \endentry
+    \entry{BildMavic3}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b8930df26d4ec17e4352ca0d9a6dfa64}{%
+           family={GmbH},
+           familyi={G\bibinitperiod},
+           given={Foto-Erhardt},
+           giveni={F\bibinitperiod\bibinitdelim .\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8930df26d4ec17e4352ca0d9a6dfa64}
+      \strng{fullhash}{b8930df26d4ec17e4352ca0d9a6dfa64}
+      \strng{bibnamehash}{b8930df26d4ec17e4352ca0d9a6dfa64}
+      \strng{authorbibnamehash}{b8930df26d4ec17e4352ca0d9a6dfa64}
+      \strng{authornamehash}{b8930df26d4ec17e4352ca0d9a6dfa64}
+      \strng{authorfullhash}{b8930df26d4ec17e4352ca0d9a6dfa64}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DJI Mavic 3 Fly More Combo}
+      \field{urlday}{21}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.foto-erhardt.de/video/drohnen/dji-mavic-3-fly-more-combo.html
+      \endverb
+      \verb{url}
+      \verb https://www.foto-erhardt.de/video/drohnen/dji-mavic-3-fly-more-combo.html
+      \endverb
+    \endentry
+    \entry{BildFpv}{online}{}
+      \name{author}{1}{}{%
+        {{hash=715f3c718861392b575f331c42a57bfa}{%
+           family={GmbH},
+           familyi={G\bibinitperiod},
+           given={Meilon},
+           giveni={M\bibinitperiod\bibinitdelim .\bibinitperiod}}}%
+      }
+      \strng{namehash}{715f3c718861392b575f331c42a57bfa}
+      \strng{fullhash}{715f3c718861392b575f331c42a57bfa}
+      \strng{bibnamehash}{715f3c718861392b575f331c42a57bfa}
+      \strng{authorbibnamehash}{715f3c718861392b575f331c42a57bfa}
+      \strng{authornamehash}{715f3c718861392b575f331c42a57bfa}
+      \strng{authorfullhash}{715f3c718861392b575f331c42a57bfa}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HGLRC FPV Sector 5 V3 Freestyle Racing Drone Crossfire Nano 6S}
+      \field{urlday}{28}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fpv24.com/de/hglrc/hglrc-fpv-sector-5-v3-freestyle-racing-drone-crossfire-nano
+      \endverb
+      \verb{url}
+      \verb https://www.fpv24.com/de/hglrc/hglrc-fpv-sector-5-v3-freestyle-racing-drone-crossfire-nano
+      \endverb
+    \endentry
+    \entry{JoshuaBardwellYoutube}{online}{}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labeltitlesource}{title}
+      \field{title}{Joshua Bardwell / YouTube}
+      \field{urlday}{13}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/@JoshuaBardwell
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/@JoshuaBardwell
+      \endverb
+    \endentry
+    \entry{Mavic3DJI}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{title}{Mavic 3 - Specs - DJI}
+      \field{urlday}{1}
+      \field{urlmonth}{2}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dji.com/mavic-3/specs
+      \endverb
+      \verb{url}
+      \verb https://www.dji.com/mavic-3/specs
+      \endverb
+    \endentry
+    \entry{TheSkyistheLimit?}{book}{}
+      \name{author}{2}{}{%
+        {{hash=110d6e37ee6a4a189da88c84063e7515}{%
+           family={Przybilla},
+           familyi={P\bibinitperiod},
+           given={Heinz-Jürgen},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=7a3dc1baa2c62367afa6309a36e3ee63}{%
+           family={Kersten},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{86975d50c78c3d0ad3a3319d9768f5d8}
+      \strng{fullhash}{86975d50c78c3d0ad3a3319d9768f5d8}
+      \strng{bibnamehash}{86975d50c78c3d0ad3a3319d9768f5d8}
+      \strng{authorbibnamehash}{86975d50c78c3d0ad3a3319d9768f5d8}
+      \strng{authornamehash}{86975d50c78c3d0ad3a3319d9768f5d8}
+      \strng{authorfullhash}{86975d50c78c3d0ad3a3319d9768f5d8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-95786-240-2}
+      \field{month}{02}
+      \field{title}{UAV 2020 - The Sky is the Limit? Schriftenreihe des DVW, Band 97, Beiträge zum 185. DVW-Seminar am 17. und 18. Februar 2020 in Hattingen}
+      \field{year}{2020}
+    \endentry
+    \entry{book}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c11034bc0e4d5832ffedafaabbd0f18a}{%
+           family={Quan},
+           familyi={Q\bibinitperiod},
+           given={Quan},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{c11034bc0e4d5832ffedafaabbd0f18a}
+      \strng{fullhash}{c11034bc0e4d5832ffedafaabbd0f18a}
+      \strng{bibnamehash}{c11034bc0e4d5832ffedafaabbd0f18a}
+      \strng{authorbibnamehash}{c11034bc0e4d5832ffedafaabbd0f18a}
+      \strng{authornamehash}{c11034bc0e4d5832ffedafaabbd0f18a}
+      \strng{authorfullhash}{c11034bc0e4d5832ffedafaabbd0f18a}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-981-10-3381-0}
+      \field{journaltitle}{Introduction to Multicopter Design and Control}
+      \field{month}{06}
+      \field{title}{Introduction to Multicopter Design and Control}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/978-981-10-3382-7
+      \endverb
+    \endentry
+    \entry{shon2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=91f25dbcb1686ea2cf424491b43d6eb2}{%
+           family={Shon},
+           familyi={S\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod\bibinitdelim .\bibinitperiod}}}%
+      }
+      \strng{namehash}{91f25dbcb1686ea2cf424491b43d6eb2}
+      \strng{fullhash}{91f25dbcb1686ea2cf424491b43d6eb2}
+      \strng{bibnamehash}{91f25dbcb1686ea2cf424491b43d6eb2}
+      \strng{authorbibnamehash}{91f25dbcb1686ea2cf424491b43d6eb2}
+      \strng{authornamehash}{91f25dbcb1686ea2cf424491b43d6eb2}
+      \strng{authorfullhash}{91f25dbcb1686ea2cf424491b43d6eb2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{month}{1}
+      \field{title}{Ist es schwer, das Fliegen einer Drohne zu lernen?}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://drones-camera.com/de/is-it-hard-to-learn-to-fly-a-drone/
+      \endverb
+      \verb{url}
+      \verb https://drones-camera.com/de/is-it-hard-to-learn-to-fly-a-drone/
+      \endverb
+    \endentry
+    \entry{CPUDatenblatt}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{STM32F765xx Datenblatt}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.st.com/resource/en/datasheet/stm32f765zi.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.st.com/resource/en/datasheet/stm32f765zi.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  12 FEB 2023 21:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  13 FEB 2023 02:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -357,6 +357,241 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \extratabsurround=\skip95
 \backup@length=\skip96
 \ar@cellbox=\box62
+)) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count298
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count299
+\c@listtotal=\count300
+\c@listcount=\count301
+\c@liststart=\count302
+\c@liststop=\count303
+\c@citecount=\count304
+\c@citetotal=\count305
+\c@multicitecount=\count306
+\c@multicitetotal=\count307
+\c@instcount=\count308
+\c@maxnames=\count309
+\c@minnames=\count310
+\c@maxitems=\count311
+\c@minitems=\count312
+\c@citecounter=\count313
+\c@maxcitecounter=\count314
+\c@savedcitecounter=\count315
+\c@uniquelist=\count316
+\c@uniquename=\count317
+\c@refsection=\count318
+\c@refsegment=\count319
+\c@maxextratitle=\count320
+\c@maxextratitleyear=\count321
+\c@maxextraname=\count322
+\c@maxextradate=\count323
+\c@maxextraalpha=\count324
+\c@abbrvpenalty=\count325
+\c@highnamepenalty=\count326
+\c@lownamepenalty=\count327
+\c@maxparens=\count328
+\c@parenlevel=\count329
+\blx@tempcnta=\count330
+\blx@tempcntb=\count331
+\blx@tempcntc=\count332
+\c@blx@maxsection=\count333
+\blx@maxsegment@0=\count334
+\blx@notetype=\count335
+\blx@parenlevel@text=\count336
+\blx@parenlevel@foot=\count337
+\blx@sectionciteorder@0=\count338
+\blx@sectionciteorderinternal@0=\count339
+\blx@entrysetcounter=\count340
+\blx@biblioinstance=\count341
+\labelnumberwidth=\skip97
+\labelalphawidth=\skip98
+\biblabelsep=\skip99
+\bibitemsep=\skip100
+\bibnamesep=\skip101
+\bibinitsep=\skip102
+\bibparsep=\skip103
+\bibhang=\skip104
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count342
+\c@maxcomprange=\count343
+\c@mincompwidth=\count344
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count345
+\c@savedafterword=\count346
+\c@annotator=\count347
+\c@savedannotator=\count348
+\c@author=\count349
+\c@savedauthor=\count350
+\c@bookauthor=\count351
+\c@savedbookauthor=\count352
+\c@commentator=\count353
+\c@savedcommentator=\count354
+\c@editor=\count355
+\c@savededitor=\count356
+\c@editora=\count357
+\c@savededitora=\count358
+\c@editorb=\count359
+\c@savededitorb=\count360
+\c@editorc=\count361
+\c@savededitorc=\count362
+\c@foreword=\count363
+\c@savedforeword=\count364
+\c@holder=\count365
+\c@savedholder=\count366
+\c@introduction=\count367
+\c@savedintroduction=\count368
+\c@namea=\count369
+\c@savednamea=\count370
+\c@nameb=\count371
+\c@savednameb=\count372
+\c@namec=\count373
+\c@savednamec=\count374
+\c@translator=\count375
+\c@savedtranslator=\count376
+\c@shortauthor=\count377
+\c@savedshortauthor=\count378
+\c@shorteditor=\count379
+\c@savedshorteditor=\count380
+\c@labelname=\count381
+\c@savedlabelname=\count382
+\c@institution=\count383
+\c@savedinstitution=\count384
+\c@lista=\count385
+\c@savedlista=\count386
+\c@listb=\count387
+\c@savedlistb=\count388
+\c@listc=\count389
+\c@savedlistc=\count390
+\c@listd=\count391
+\c@savedlistd=\count392
+\c@liste=\count393
+\c@savedliste=\count394
+\c@listf=\count395
+\c@savedlistf=\count396
+\c@location=\count397
+\c@savedlocation=\count398
+\c@organization=\count399
+\c@savedorganization=\count400
+\c@origlocation=\count401
+\c@savedoriglocation=\count402
+\c@origpublisher=\count403
+\c@savedorigpublisher=\count404
+\c@publisher=\count405
+\c@savedpublisher=\count406
+\c@language=\count407
+\c@savedlanguage=\count408
+\c@origlanguage=\count409
+\c@savedoriglanguage=\count410
+\c@pageref=\count411
+\c@savedpageref=\count412
+\shorthandwidth=\skip105
+\shortjournalwidth=\skip106
+\shortserieswidth=\skip107
+\shorttitlewidth=\skip108
+\shortauthorwidth=\skip109
+\shorteditorwidth=\skip110
+\locallabelnumberwidth=\skip111
+\locallabelalphawidth=\skip112
+\localshorthandwidth=\skip113
+\localshortjournalwidth=\skip114
+\localshortserieswidth=\skip115
+\localshorttitlewidth=\skip116
+\localshortauthorwidth=\skip117
+\localshorteditorwidth=\skip118
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count413
+\c@textcitetotal=\count414
+\c@textcitemaxnames=\count415
+\c@biburlbigbreakpenalty=\count416
+\c@biburlbreakpenalty=\count417
+\c@biburlnumpenalty=\count418
+\c@biburlucpenalty=\count419
+\c@biburllcpenalty=\count420
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count421
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count422
+\c@bbx:relatedtotal=\count423
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-11-02 L3 programming layer (loader) 
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count424
+\l__pdf_internal_box=\box63
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-11-02 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex\blx-case-expl3.sty (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 ))
 
 Package siunitx Info: Option "separate-uncertainty" has been deprecated in
@@ -365,30 +600,32 @@ Package siunitx Info: Option "separate-uncertainty" has been deprecated in
 (siunitx)             Use "uncertainty-mode = separate" as a replacement.
 
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 36.
- (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count425
+\@quotereset=\count426
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 38.
+(D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count298
-\l__pdf_internal_box=\box63
 ) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -426,16 +663,16 @@ LaTeX Font Info:    ... okay on input line 36.
 
 (D:\Program Files (x86)\LATEX\MikTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
+\scratchcounter=\count427
 \scratchdimen=\dimen194
 \scratchbox=\box64
-\nofMPsegments=\count300
-\nofMParguments=\count301
+\nofMPsegments=\count428
+\nofMParguments=\count429
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count302
+\MPscratchCnt=\count430
 \MPscratchDim=\dimen195
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
+\MPnumerator=\count431
+\makeMPintoPDFobject=\count432
 \everyMPtoPDFconversion=\toks28
 ) (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -448,7 +685,31 @@ Package caption Info: End \AtBeginDocument code.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/translations/dicts\translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 36.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 38.
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex/lbx\ngerman.lbx
+File: ngerman.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex/lbx\german.lbx
+File: german.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
 \openout2 = `Kapitel/Deckblatt/Deckblatt.aux'.
 
  (Kapitel/Deckblatt/Deckblatt.tex
@@ -490,8 +751,8 @@ Overfull \hbox (23.99997pt too wide) in paragraph at lines 12--25
 
 
 {C:/Users/henri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
  [0
 
@@ -500,22 +761,22 @@ Overfull \hbox (23.99997pt too wide) in paragraph at lines 12--25
 \openout2 = `Kapitel/01_Einleitung/01_Einleitung.aux'.
 
  (Kapitel/01_Einleitung/01_Einleitung.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 4--44
+Underfull \hbox (badness 10000) in paragraph at lines 4--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--44
+Underfull \hbox (badness 10000) in paragraph at lines 4--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--44
+Underfull \hbox (badness 10000) in paragraph at lines 4--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--44
+Underfull \hbox (badness 10000) in paragraph at lines 4--46
 
  []
 
@@ -569,17 +830,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--60
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--85
+Underfull \hbox (badness 10000) in paragraph at lines 62--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--85
+Underfull \hbox (badness 10000) in paragraph at lines 62--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--85
+Underfull \hbox (badness 10000) in paragraph at lines 62--84
 
  []
 
@@ -587,12 +848,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--85
 <Img/Bild_DJIMavic3.jpg, id=25, 1053.9375pt x 636.3775pt>
 File: Img/Bild_DJIMavic3.jpg Graphic file (type jpg)
 <use Img/Bild_DJIMavic3.jpg>
-Package pdftex.def Info: Img/Bild_DJIMavic3.jpg  used on input line 91.
+Package pdftex.def Info: Img/Bild_DJIMavic3.jpg  used on input line 90.
 (pdftex.def)             Requested size: 204.85846pt x 123.69012pt.
 <Img/Bild_FPV.jpg, id=26, 702.625pt x 452.69125pt>
 File: Img/Bild_FPV.jpg Graphic file (type jpg)
 <use Img/Bild_FPV.jpg>
-Package pdftex.def Info: Img/Bild_FPV.jpg  used on input line 98.
+Package pdftex.def Info: Img/Bild_FPV.jpg  used on input line 97.
 (pdftex.def)             Requested size: 204.85846pt x 131.98857pt.
 ) [4 <./Img/Bild_DJIMavic3.jpg> <./Img/Bild_FPV.jpg>]
 \openout2 = `Kapitel/03_Bauteile/03_Bauteile.aux'.
@@ -603,7 +864,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--19
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--40
+Underfull \hbox (badness 10000) in paragraph at lines 25--43
 
  []
 
@@ -612,17 +873,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--40
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 51--67
+Underfull \hbox (badness 10000) in paragraph at lines 54--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--87
+Underfull \hbox (badness 10000) in paragraph at lines 72--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--87
+Underfull \hbox (badness 10000) in paragraph at lines 72--90
 
  []
 
@@ -630,50 +891,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--87
 <Img/Diagramm_vor_Filterung_PitchAchse.png, id=37, 772.00922pt x 610.53094pt>
 File: Img/Diagramm_vor_Filterung_PitchAchse.png Graphic file (type png)
 <use Img/Diagramm_vor_Filterung_PitchAchse.png>
-Package pdftex.def Info: Img/Diagramm_vor_Filterung_PitchAchse.png  used on input line 104.
+Package pdftex.def Info: Img/Diagramm_vor_Filterung_PitchAchse.png  used on input line 108.
 (pdftex.def)             Requested size: 223.07211pt x 176.40663pt.
 <Img/Diagramm_nach_Filterung_PitchAchse.png, id=39, 771.25641pt x 611.28375pt>
 File: Img/Diagramm_nach_Filterung_PitchAchse.png Graphic file (type png)
 <use Img/Diagramm_nach_Filterung_PitchAchse.png>
-Package pdftex.def Info: Img/Diagramm_nach_Filterung_PitchAchse.png  used on input line 111.
+Package pdftex.def Info: Img/Diagramm_nach_Filterung_PitchAchse.png  used on input line 115.
 (pdftex.def)             Requested size: 223.07211pt x 176.80138pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--137
+Underfull \hbox (badness 10000) in paragraph at lines 123--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--137
+Underfull \hbox (badness 10000) in paragraph at lines 123--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--137
+Underfull \hbox (badness 10000) in paragraph at lines 123--141
 
  []
 
 [7 <./Img/Diagramm_vor_Filterung_PitchAchse.png> <./Img/Diagramm_nach_Filterung_PitchAchse.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 139--167
+Underfull \hbox (badness 10000) in paragraph at lines 143--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--167
+Underfull \hbox (badness 10000) in paragraph at lines 143--171
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 169--202
+Underfull \hbox (badness 10000) in paragraph at lines 173--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--202
+Underfull \hbox (badness 10000) in paragraph at lines 173--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--202
+Underfull \hbox (badness 10000) in paragraph at lines 173--206
 
  []
 
@@ -711,7 +972,7 @@ Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input 
 
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 64--47
+Underfull \hbox (badness 10000) in paragraph at lines 64--49
 
  []
 
@@ -719,12 +980,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--47
 \openout2 = `"Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux"'.
 
  (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 4--48
+Underfull \hbox (badness 10000) in paragraph at lines 4--50
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--48
+Underfull \hbox (badness 10000) in paragraph at lines 4--50
 
  []
 
@@ -732,19 +993,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--48
 
 
 
-] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux)) ) 
+]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 56.
+ (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [14
+
+
+] (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux))
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 11743 strings out of 475281
- 252658 string characters out of 2778251
- 574161 words of memory out of 3000000
- 33019 multiletter control sequences out of 15000+600000
- 512581 words of font info for 56 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 76i,13n,80p,564b,746s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr17.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (15 pages, 1183725 bytes).
+ 19267 strings out of 475281
+ 405375 string characters out of 2778251
+ 1160542 words of memory out of 3000000
+ 40463 multiletter control sequences out of 15000+600000
+ 519958 words of font info for 59 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 76i,13n,80p,751b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmbx12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmcsc10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr12.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr17.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmri10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (16 pages, 1266247 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

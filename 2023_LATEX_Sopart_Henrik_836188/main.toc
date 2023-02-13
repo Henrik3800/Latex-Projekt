@@ -12,3 +12,4 @@
 \contentsline {subsection}{\numberline {3.3}Propeller}{9}{}%
 \contentsline {section}{\numberline {4}Bildstabilisierung}{11}{}%
 \contentsline {section}{\numberline {5}Zusammenfassung und Ergebnis}{13}{}%
+\contentsline {section}{\numberline {6}Literaturverzeichnis}{14}{}%

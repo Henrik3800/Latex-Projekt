@@ -1,9 +1,8 @@
 %%% Henrik Sopart, 836188, Latex-Projekt %%%%
 
 %% TODO %%%
-% Diagramm
 % Ref verwenden
-% Inhalt und Experiment
+
 
 
 
@@ -14,6 +13,9 @@
 
 % Pfad zu Grafiken und Bildern
 \graphicspath{{Img/}}
+
+% Pfad zu Referenzen
+\addbibresource{Referenzen/Referenzen.bib}
 
 % Neue Befehlsdefinitionen, um das Erstellen des Deckblattes und der Metadaten zu automatisieren
 % Angaben zur Arbeit
@@ -46,5 +48,13 @@
 \include{Kapitel/03_Bauteile/03_Bauteile.tex}
 \include{Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.tex}
 \include{Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex}
+
+% Dieser Befehl zitiert alle Einträge im Literaturverzeichnis
+\nocite{*} 
+
+% Erstellung des Literaturverzeichnisses
+\printbibliography
+\addcontentsline{toc}{section}{\protect\numberline{6}Literaturverzeichnis}
+
 
 \end{document}

@@ -829,11 +829,23 @@ INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\generic\uniquecounter\uniquecounte
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
-INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
-INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
-INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\helvet.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\graphics\keyval.sty
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\t1phv.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\t1phv.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\t1phv.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\psnfss\t1phv.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT .\main.aux
 INPUT main.aux
 INPUT main.aux
@@ -918,9 +930,9 @@ INPUT .\Kapitel\Deckblatt\Deckblatt.tex
 INPUT Kapitel\Deckblatt\Deckblatt.tex
 INPUT .\Kapitel\Deckblatt\Deckblatt.tex
 INPUT Kapitel\Deckblatt\Deckblatt.tex
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr17.tfm
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr17.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\ot1lmr.fd
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\ot1lmr.fd
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\ot1lmr.fd
@@ -961,23 +973,39 @@ INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\amsfonts\umsb.fd
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr12.tfm
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\lmmi12.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\lmsy10.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr8.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\henri\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr12.tfm
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT .\main.toc
 INPUT main.toc
 INPUT main.toc
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 OUTPUT main.toc
 INPUT .\Kapitel\01_Einleitung\01_Einleitung.tex
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 OUTPUT Kapitel\01_Einleitung\01_Einleitung.aux
 INPUT .\Kapitel\01_Einleitung\01_Einleitung.tex
 INPUT .\Kapitel\01_Einleitung\01_Einleitung.tex
@@ -986,6 +1014,14 @@ INPUT .\Kapitel\01_Einleitung\01_Einleitung.tex
 INPUT Kapitel\01_Einleitung\01_Einleitung.tex
 INPUT .\Kapitel\01_Einleitung\01_Einleitung.tex
 INPUT Kapitel\01_Einleitung\01_Einleitung.tex
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvro8t.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmr.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvro8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvro8r.tfm
 INPUT .\Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
 OUTPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.aux
 INPUT .\Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
@@ -995,6 +1031,13 @@ INPUT .\Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
 INPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
 INPUT .\Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
 INPUT Kapitel\02_FPV-Drohnen\02_FPV-Drohnen.tex
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\ot1lmss.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\ot1lmss.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\ot1lmss.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\ot1lmss.fd
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\rm-lmss10.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\rm-lmss8.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\rm-lmss8.tfm
 INPUT .\Img\Bild_DJIMavic3.jpg
 INPUT .\Img\Bild_DJIMavic3.jpg
 INPUT Img\Bild_DJIMavic3.jpg
@@ -1002,7 +1045,7 @@ INPUT .\Img\Bild_DJIMavic3.jpg
 INPUT .\Img\Bild_DJIMavic3.jpg
 INPUT .\Img\Bild_DJIMavic3.jpg
 INPUT .\Img\Bild_DJIMavic3.jpg
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT .\Img\Bild_FPV.jpg
 INPUT .\Img\Bild_FPV.jpg
 INPUT Img\Bild_FPV.jpg
@@ -1010,6 +1053,8 @@ INPUT .\Img\Bild_FPV.jpg
 INPUT .\Img\Bild_FPV.jpg
 INPUT .\Img\Bild_FPV.jpg
 INPUT .\Img\Bild_FPV.jpg
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvr8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
 OUTPUT Kapitel\03_Bauteile\03_Bauteile.aux
 INPUT .\Kapitel\03_Bauteile\03_Bauteile.tex
@@ -1058,13 +1103,14 @@ INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.
 INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
 INPUT .\Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
 INPUT Kapitel\05_Zusammenfassung und Ergebnis\05_Zusammenfassung und Ergebnis.tex
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmri10.tfm
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvrc8t.tfm
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmtt.fd
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmtt.fd
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmtt.fd
 INPUT D:\Program Files (x86)\LATEX\MikTeX\tex\latex\lm\t1lmtt.fd
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\public\lm\ec-lmtt10.tfm
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\vf\adobe\helvetic\phvrc8t.vf
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT main.aux
 INPUT .\Kapitel\Deckblatt\Deckblatt.aux
 INPUT Kapitel\Deckblatt\Deckblatt.aux
@@ -1092,29 +1138,28 @@ INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\lm\lm-rm.enc
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx10.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx12.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmbx12.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmcsc10.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmcsc10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\enc\dvips\base\8r.enc
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr10.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr12.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr12.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr17.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr17.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr8.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmr8.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmri10.pfb
-INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmri10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmss10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmss10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmss8.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmss8.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmsy10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmsy10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmsy8.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmsy8.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmtt10.pfb
 INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\public\lm\lmtt10.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\urw\helvetic\uhvro8a.pfb
+INPUT D:\Program Files (x86)\LATEX\MikTeX\fonts\type1\urw\helvetic\uhvro8a.pfb

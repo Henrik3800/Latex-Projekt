@@ -22,8 +22,19 @@
 \usepackage[backend=biber]{biblatex} % Literaturverzeichnis, biber wegen UTF-8
 \usepackage[colorlinks=true, urlcolor=blue, linkcolor=black, citecolor=black]{hyperref} % Schöne "bunte" links
 
-
 \setlength{\parindent}{0cm} % Verhindert das Einrücken
 \captionsetup[figure]{justification=raggedright,singlelinecheck=false} % "justification=raggedright" -> Beschriftungen linksbündig ; singlelinecheck=false -> keine automatische Zentrierung
 \captionsetup[table]{justification=raggedright,singlelinecheck=false} % "justification=raggedright" -> Beschriftungen linksbündig ; singlelinecheck=false -> keine automatische Zentrierung
 \sisetup{locale = DE, per-mode = fraction, separate-uncertainty} % Darstellung von Einheiten, Trennung etc. auf deutsch
+
+% Schrift, die Arial ähnlich sieht
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Korrektur für Kopfzeile
+\setlength{\headheight}{13.59999pt}
+\addtolength{\topmargin}{-1.59999pt}
+
+% Kopfzeile
+\pagestyle{fancy}
+\fancyhead[L]{}

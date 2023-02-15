@@ -3,13 +3,13 @@
 \contentsline {section}{\numberline {2}FPV-Drohnen}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Besonderheiten}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Steuerung}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Komplexität}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3}Komplexität}{4}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Bauteile}{5}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Flight Controller}{5}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}PID-Loop}{6}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Filter}{6}{subsubsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.2}Rahmen}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.1.2}Filter}{7}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Rahmen}{9}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Propeller}{9}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Bildstabilisierung}{11}{section.4}%
 \contentsline {section}{\numberline {5}Zusammenfassung und Ergebnis}{13}{section.5}%
-\contentsline {section}{\numberline {6}Literaturverzeichnis}{14}{section.5}%
+\contentsline {section}{\numberline {6}Literatur}{14}{section.5}%

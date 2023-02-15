@@ -203,23 +203,6 @@
       \verb https://www.fpv24.com/de/hglrc/hglrc-fpv-sector-5-v3-freestyle-racing-drone-crossfire-nano
       \endverb
     \endentry
-    \entry{JoshuaBardwellYoutube}{online}{}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{labeltitlesource}{title}
-      \field{title}{Joshua Bardwell / YouTube}
-      \field{urlday}{13}
-      \field{urlmonth}{2}
-      \field{urlyear}{2023}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://www.youtube.com/@JoshuaBardwell
-      \endverb
-      \verb{url}
-      \verb https://www.youtube.com/@JoshuaBardwell
-      \endverb
-    \endentry
     \entry{Mavic3DJI}{online}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}

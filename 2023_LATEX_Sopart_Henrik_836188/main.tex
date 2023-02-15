@@ -26,6 +26,8 @@
 \newcommand{\Pruefer}{Prof. Dr. Michael Protogerakis}
 \newcommand{\Abgabedatum}{15.02.2023}
 
+
+
 % Beginn der Arbeit
 \begin{document}
 
@@ -50,9 +52,10 @@
 % Zitiert alle Einträge im Literaturverzeichnis, auch wenn man sie nicht extrem mit cite aufgerufen hat
 \nocite{*} 
 
-% Erstellung des Literaturverzeichnisses
-\printbibliography
-% Fügt Literaturverzeichnisses dem INhaltsverzeichnis hinzu
+\phantomsection % Korrektur fürs Springen aus dem Inhaltsverzeichnis per Hyperlink
+\printbibliography % Erstellung des Literaturverzeichnisses
+
+% Fügt Literaturverzeichnisses dem Inhaltsverzeichnis (toc) hinzu
 \addcontentsline{toc}{section}{\protect\numberline{6}Literatur}
 
 \end{document}

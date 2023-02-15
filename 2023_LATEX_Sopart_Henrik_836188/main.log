@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  15 FEB 2023 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  15 FEB 2023 19:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1021,28 +1021,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--93
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--111
+
+ []
+
 <Img/Diagramm_vor_Filterung_PitchAchse.png, id=138, 772.00922pt x 610.53094pt>
 File: Img/Diagramm_vor_Filterung_PitchAchse.png Graphic file (type png)
 <use Img/Diagramm_vor_Filterung_PitchAchse.png>
-Package pdftex.def Info: Img/Diagramm_vor_Filterung_PitchAchse.png  used on input line 111.
+Package pdftex.def Info: Img/Diagramm_vor_Filterung_PitchAchse.png  used on input line 117.
 (pdftex.def)             Requested size: 223.07211pt x 176.40663pt.
 <Img/Diagramm_nach_Filterung_PitchAchse.png, id=140, 771.25641pt x 611.28375pt>
 File: Img/Diagramm_nach_Filterung_PitchAchse.png Graphic file (type png)
 <use Img/Diagramm_nach_Filterung_PitchAchse.png>
-Package pdftex.def Info: Img/Diagramm_nach_Filterung_PitchAchse.png  used on input line 118.
+Package pdftex.def Info: Img/Diagramm_nach_Filterung_PitchAchse.png  used on input line 124.
 (pdftex.def)             Requested size: 223.07211pt x 176.80138pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--147
+Underfull \hbox (badness 10000) in paragraph at lines 132--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--147
+Underfull \hbox (badness 10000) in paragraph at lines 132--147
 
  []
 
@@ -1156,7 +1156,7 @@ Here is how much of TeX's memory you used:
  1143 hyphenation exceptions out of 8191
  76i,14n,80p,751b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/base/8r.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmss10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmss8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmtt10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (16 pages, 1163267 bytes).
+Output written on main.pdf (16 pages, 1163255 bytes).
 PDF statistics:
  282 PDF objects out of 1000 (max. 8388607)
  51 named destinations out of 1000 (max. 500000)

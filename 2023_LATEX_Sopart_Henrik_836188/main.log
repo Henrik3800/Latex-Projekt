@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  15 FEB 2023 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2022.12.18)  15 FEB 2023 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -712,30 +712,30 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 32.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 41.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (main.aux (Kapitel/Deckblatt/Deckblatt.aux) (Kapitel/01_Einleitung/01_Einleitung.aux) (Kapitel/02_FPV-Drohnen/02_FPV-Drohnen.aux) (Kapitel/03_Bauteile/03_Bauteile.aux) (Kapitel/04_Bildstabilisierung/04_Bildstabilisierung.aux) (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -796,7 +796,7 @@ Package caption Info: End \AtBeginDocument code.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/translations/dicts\translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 32.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 41.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/biblatex/lbx\ngerman.lbx
@@ -819,9 +819,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 32.
-Package biblatex Info: Reference segment=0 on input line 32.
-Package hyperref Info: Link coloring ON on input line 32.
+Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference segment=0 on input line 41.
+Package hyperref Info: Link coloring ON on input line 41.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -880,33 +880,33 @@ Overfull \hbox (23.99997pt too wide) in paragraph at lines 12--25
 \openout2 = `Kapitel/01_Einleitung/01_Einleitung.aux'.
 
  (Kapitel/01_Einleitung/01_Einleitung.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 4--46
+Underfull \hbox (badness 10000) in paragraph at lines 4--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--46
+Underfull \hbox (badness 10000) in paragraph at lines 4--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--46
+Underfull \hbox (badness 10000) in paragraph at lines 4--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--46
+Underfull \hbox (badness 10000) in paragraph at lines 4--55
 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 46.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 55.
 (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 ...e{Kapitel/01_Einleitung/01_Einleitung.tex}
+l.55 ...e{Kapitel/01_Einleitung/01_Einleitung.tex}
                                                    [1
 
 ]
@@ -1105,7 +1105,7 @@ Package pdftex.def Info: Img//Grafik_StabilisierungV2.pdf , page1 used on input 
 
 
 ])
-Underfull \hbox (badness 10000) in paragraph at lines 64--49
+Underfull \hbox (badness 10000) in paragraph at lines 64--58
 
  []
 
@@ -1113,17 +1113,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--49
 \openout2 = `"Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.aux"'.
 
  (Kapitel/05_Zusammenfassung und Ergebnis/05_Zusammenfassung und Ergebnis.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 4--50
+Underfull \hbox (badness 10000) in paragraph at lines 4--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--50
+Underfull \hbox (badness 10000) in paragraph at lines 4--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--50
+Underfull \hbox (badness 10000) in paragraph at lines 4--59
 
  []
 
@@ -1133,8 +1133,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--50
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 56.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 56.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 65.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 65.
  (D:\Program Files (x86)\LATEX\MikTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [14
@@ -1148,15 +1148,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26066 strings out of 475281
- 513036 string characters out of 2778251
- 1277640 words of memory out of 3000000
- 47102 multiletter control sequences out of 15000+600000
+ 26067 strings out of 475281
+ 513055 string characters out of 2778251
+ 1277985 words of memory out of 3000000
+ 47103 multiletter control sequences out of 15000+600000
  535096 words of font info for 80 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  76i,14n,80p,751b,2367s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-ec.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program Files (x86)/LATEX/MikTeX/fonts/enc/dvips/base/8r.enc}<D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmmi8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmr8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmss10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmss8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmsy8.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/public/lm/lmtt10.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Program Files (x86)/LATEX/MikTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (16 pages, 1162842 bytes).
+Output written on main.pdf (16 pages, 1163286 bytes).
 PDF statistics:
  282 PDF objects out of 1000 (max. 8388607)
  51 named destinations out of 1000 (max. 500000)

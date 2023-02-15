@@ -1,4 +1,4 @@
-%%% Henrik Sopart, 836188, Latex-Projekt %%%%
+%%% Henrik Sopart, 836188, Latex-Projekt %%%% Version: Abgabe
 
 \section[Bauteile]{Bauteile}
     Sowohl FPV-Drohnen als auch herkömmliche Drohnen verwenden eine Vielzahl von Bauteilen,
@@ -13,7 +13,7 @@
     dargelegt, welche den größten Einfluss auf das Flugverhalten und die Videoqualität haben.
     Neben diesen Komponenten hat selbstverständlich die Kamera selbst den größten Einfluss auf
     die Videoqualität. Da eine genaue Betrachtung sämtlicher Kameraeinstellungen und Variationen
-    den Umfang dieser Arbeit sprengen würde, werden lediglich Komponenten betrachte, die sowohl
+    den Umfang dieser Arbeit sprengen würde, werden lediglich Komponenten betrachtet, die sowohl
     einen Einfluss auf das Flugverhalten, also auch die Videoqualität haben. Dazu gehören der
     Flight Controller (FC), der Rahmen und die Propeller.
    
@@ -36,8 +36,8 @@
         fällt ein Bauteil mehr nicht ins Gewicht. \\
         \\
         FPV-Flight Controller sind speziell für den Einsatz in FPV-Drohnen ausgelegt und haben einige
-        Eigenschaften, die dies zeigen. Eines dieser Merkmale ist eine hohe Leistung und Berechnungsgeschwindigkeit.
-        ~\cite{CPUDatenblatt} Dies führt zu einer geringen PID-Loop Dauer und nimmt so direkten Einfluss auf das
+        Eigenschaften, die dies zeigen. Eines dieser Merkmale ist eine hohe Leistung und Berechnungsgeschwindigkeit
+        \cite{CPUDatenblatt}. Dies führt zu einer geringen PID-Loop Dauer und nimmt so direkten Einfluss auf das
         Flugverhalten. Eine weitere Besonderheit sind die frei zugänglichen und anpassbaren PID-Parameter, um die
         Flugsteuerung an die spezifischen Anforderungen und Vorlieben des Nutzers anpassen zu können.
     
@@ -48,7 +48,7 @@
             \begin{itemize}
                 \item[1.] Proportional: Der proportionale Anteil bezieht sich auf die aktuelle Abweichung des Systems von seinem Sollwert. Je größer die Abweichung ist, desto stärker fällt die Korrektur aus.
                 \item[2.] Integral: Die Integralsteuerung bezieht sich auf die Summe aller Abweichungen des Systems von seinem Sollwert über einen bestimmten Zeitraum. Sie hilft dabei, kleinere Abweichungen auszugleichen und das System in seinem Sollzustand zu halten.
-                \item[3.] Derivative: Die derivative Steuerung bezieht sich auf die Änderungsrate der Abweichung des Systems von seinem Sollwert. Sie hilft dabei, das System auf Änderungen in der Umgebung schneller zu reagieren und das System stabiler zu halten.
+                \item[3.] Derivative: Die derivative Steuerung bezieht sich auf die Änderungsrate der Abweichung des Systems von seinem Sollwert. Sie hilft dabei, das System auf Änderungen in der Umgebung schneller reagieren zu lassen und das System dadurch stabil zu halten.
             \end{itemize}
 
             Der PID-Loop berechnet die Steuersignale für das System basierend auf den Werten der drei
@@ -64,9 +64,9 @@
             die Drohne unkontrolliert in eine unerwartete Richtung fliegt und damit Personen oder Objekte
             in der Umgebung gefährdet. Dieses Phänomen nennt sich „Fly away“. Aus diesem Grund sind bei
             herkömmlichen Drohnen die PID-Werte für den Käufer nicht sichtbar und lassen sich auch nicht
-            ändern. Bei FPV-Drohnen sind voreingestellte PID-Werte jedoch nicht möglich, da ein FC sowohl
-            in einer schweren, langsame als auch in einer leichten und sehr agilen Drohne verbaut werden
-            kann und so je nach Anwendungsfall vom Benutzer unterschiedlich parametriert werden muss.
+            ändern. Bei FPV-Drohnen muss der Benutzer sich die PID-Werte jedoch selbst einstellen, da ein FC sowohl
+            in einer schweren, langsamen als auch in einer leichten und sehr agilen Drohne verbaut werden
+            kann und so je nach Anwendungsfall unterschiedlich parametriert werden muss.
         
         \newpage
         \subsubsection[Filter]{Filter}
@@ -85,8 +85,8 @@
         sogenannte „soft mounting“ des FCs. Hierbei wird der FC nicht direkt mit dem Rahmen verschraubt,
         sondern ist durch Gummis vom Rahmen entkoppelt. \\
         \\
-        Um die Wichtigkeit und den Einfluss von Filtern zu verdeutlichen, wurde eine Experiment durchgeführt.
-        In diesem Experiment wurden sämtliche Daten des Gyroskops und des Flight Controller wären des Fluges
+        Um die Wichtigkeit und den Einfluss von Filtern zu verdeutlichen, wurde ein Experiment durchgeführt.
+        In diesem Experiment wurden sämtliche Daten des Gyroskops und des Flight Controllers während des Fluges
         aufgezeichnet und anschließend mit einer speziellen Software (Betaflight - Blackbox Explorer)
         veranschaulicht. Um die Reproduzierbarkeit und Transparenz zu ermöglichen, werden die verwendeten
         Bauteile der Drohne im Folgenden dargestellt. \\
@@ -137,7 +137,7 @@
        \\
        In Abbildung~\ref*{NachFilterung} lässt sich das identische, jedoch gefilterte Signal des Gyroskops erkennen. Dieses
        Signal wird im weiteren Verlauf dem PID-Loop als „Ist-Wert“ zur Verfügung gestellt. In Abbildung~\ref*{NachFilterung} lässt
-       sich eindeutig erkennen, dass ein Großteil der Frequenzen herausgefiltert worden ist. Jedoch noch
+       sich eindeutig erkennen, dass ein Großteil der Frequenzen herausgefiltert wurde. Jedoch noch
        immer ein geringfügiges Rauschen im Bereich von \qty{200}{\Hz} vorhanden ist. Da die Amplitude dieser Störungen
        jedoch im Vergleich zu den eigentlichen Bewegungen der Drohne minimal ist, kann diese vernachlässigt werden. \\
        \\

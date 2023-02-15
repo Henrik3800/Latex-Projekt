@@ -64,9 +64,9 @@
             die Drohne unkontrolliert in eine unerwartete Richtung fliegt und damit Personen oder Objekte
             in der Umgebung gefährdet. Dieses Phänomen nennt sich „Fly away“. Aus diesem Grund sind bei
             herkömmlichen Drohnen die PID-Werte für den Käufer nicht sichtbar und lassen sich auch nicht
-            ändern. Dies ist bei FPV-Drohnen allerdings nicht möglich, da ein FC sowohl in einer schweren,
-            langsame als auch in einer leichten und sehr agilen Drohne verbaut werden kann und so je nach
-            Anwendungsfall vom Benutzer unterschiedlich parametriert werden muss.
+            ändern. Bei FPV-Drohnen sind voreingestellte PID-Werte jedoch nicht möglich, da ein FC sowohl
+            in einer schweren, langsame als auch in einer leichten und sehr agilen Drohne verbaut werden
+            kann und so je nach Anwendungsfall vom Benutzer unterschiedlich parametriert werden muss.
 
         \subsubsection[Filter]{Filter}
         Filter sind Hardware- und/oder Softwarekomponenten, welche sich auf dem FC befinden und
@@ -80,7 +80,7 @@
         \newpage
         Dies sorgt dafür, dass eine Bewegung der Drohne den PID-Loop erst verzögert
         erreicht. Aus diesem Grund ist eine möglichst geringe, aber dennoch ausreichende Filterung
-        erstrebenswert. Ein Einfacher, jedoch sehr effektiver weg eine Filterung zu erreichen, ist das
+        erstrebenswert. Ein einfacher, jedoch sehr effektiver Weg eine Filterung zu erreichen, ist das
         sogenannte „soft mounting“ des FCs. Hierbei wird der FC nicht direkt mit dem Rahmen verschraubt,
         sondern ist durch Gummis vom Rahmen entkoppelt. \\
         \\
@@ -123,7 +123,7 @@
        \end{figure}
 
        Für die folgende Betrachtung der Diagramme werden keine Werte benötigt. Das Experiment soll nur
-       einen Überblick über die Möglichkeiten einer korrekten Filterung darlegen und Grafisch zeigen,
+       einen Überblick über die Möglichkeiten einer korrekten Filterung darlegen und grafisch zeigen,
        wie sich dies im Signal bemerkbar macht. Auf der horizontalen Achse der Abbildung \ref*{VorFilterung}
        und \ref*{NachFilterung} ist jeweils die Frequenz der Vibration bzw. Bewegung dargestellt.
        Die vertikale Achse beschreibt die Amplitude und somit die Intensität. \\
@@ -178,7 +178,7 @@
         Die Propeller haben direkten Einfluss auf das Flugverhalten und so indirekt auch Einfluss auf
         die Videoqualität. Sie werden durch die Motoren auf enorme Geschwindigkeiten beschleunigt und
         erzeugen so den Auftrieb für den Flug. Propeller zeichnen sich durch drei wichtige Kenndaten
-        aus. Den Durchmesser und die Steigung, welche meist in Zoll angegeben werden, und die Anzahl
+        aus. Den Durchmesser und die Steigung, welche meist in Zoll angegeben werden und die Anzahl
         der Propellerflügel. All diese Kenndaten haben einen enormen Einfluss auf sämtliche Aspekte der
         FPV-Drohne, wie beispielsweise das Flugverhalten oder die Akkulaufzeit. \\
         \\
@@ -190,21 +190,21 @@
         Anzahl der Umdrehung mehr Luft befördern, benötigt jedoch ein höheres Drehmoment bzw. mehr Energie
         durch den Motor. Die Anzahl der Flügel nimmt besonders Einfluss auf die übertragbare Leistung und
         die Effizienz. Da durch jeden Flügel eines Propellers die von Luft durchströmte Fläche erhöht wird,
-        kann ein Propeller mit mehr flügeln bei gleichbleibendem Durchmesser mehr Luft befördern als einer
+        kann ein Propeller mit mehr Flügeln bei gleichbleibendem Durchmesser mehr Luft befördern als einer
         mit weniger Flügeln. Da diese sich jedoch gegenseitig negativ beeinflussen und Turbulenzen erzeugen,
         sinkt die Effizienz, was in einem höheren Energieverbrauch resultiert.  \\
         \\
         Ein weiterer Aspekt, welche beachtet werden muss, ist die mechanische Integrität. Falls ein Propeller
         beispielsweise durch einen Absturz beschädigt oder verbogen worden ist, sollte dieser vor dem nächsten
         Flug entfernt und durch einen neuen ersetzt werden. Andernfalls kann es aufgrund der enormen
-        Geschwindigkeiten des Propellers, welcher möglicherweise durch den Defekt nicht mehr exakt ausgewuchtet
+        Rotationsgeschwindigkeiten des Propellers, welcher möglicherweise durch den Defekt nicht mehr exakt ausgewuchtet
         ist, zu Vibrationen kommen. Aufgrund der Intensität diese kann der FC sie unter Umständen nicht korrekt
         filtern, was in unkontrollierten Bewegungen der Drohne resultieren würde. \\
         \newpage
         Die Geschwindigkeit des Propellers wird durch zwei Faktoren beeinflusst. Zum einen durch die Spannung,
         welche am Motor anliegt und zum anderen durch den $kv$-Wert (Umdrehungen pro Minute pro Volt,
         $\frac{1}{\si{\minute}\cdot \si{\volt}}$), den dieser Motor besitzt. In der folgenden Rechnung wird
-        beispielhaft und vereinfacht die Umdrehungsanzahl eines Motors und die Geschwindigkeit des Propellers
+        beispielhaft und vereinfacht die Umdrehungszahl eines Motors und die Geschwindigkeit des Propellers
         für eine 6$s$ System mit einem Motor mit 1950$kv$ und einem 5\dq Propeller berechnet. 6$s$ gibt hierbei
         die Anzahl an Zellen und somit die Höhe der Spannung an. Es wird zur Vereinfachung davon ausgegangen,
         dass die Spannung einer Zelle auch unter Last konstant bei \qty{3,7}{\volt} liegt.

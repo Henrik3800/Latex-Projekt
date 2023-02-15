@@ -33,7 +33,7 @@
     einem Beispiel dargestellt. \\
     \\
     Den Ausgangszustand und somit die Eingabe der Stabilisierung bildet ein um 90 Grad gedrehtes
-    Bild einer nicht mechanisch stabilisierten Kamera, welches in der Abbildung in schwarz dargestellt
+    Bild einer nicht mechanisch stabilisierten Kamera, welches in Abbildung \ref*{FpvDrohne} in schwarz dargestellt
     ist. Das Bild hat aufgrund der 90 Grad Drehung das Format 9:16 und die Auflösung 1080x1920. Soll
     dieses Bild nun horizontal im 16:9-Format stabilisiert werden, kann eine hier in Blau dargestellte
     Maske im gewünschten Seitenverhältnis über die Eingabe gelegt werden. Da die neue Maske jedoch 1920
@@ -47,12 +47,12 @@
         \def\svgwidth{\linewidth}
         \input{IMG/Grafik_StabilisierungV2.pdf_tex}
         \vspace{0.5cm}
-        \caption{Test}
-        \label{vektorgrafik}
+        \caption{Stabilisierung}
+        \label{stabilisierung}
     \end{figure}
     
     Es lässt sich eindeutig erkenne, dass ein großer Teil der Auflösung fehlt, das Endresultat jedoch
-    ein Bild im 16:9-Format ist. Dieses vorgehen lässt sich auf jedes Bild eines Videos anwenden, um
+    ein Bild im 16:9-Format ist. Dieses Vorgehen lässt sich auf jedes Bild eines Videos anwenden, um
     ein horizontal stabilisiertes Video zu erhalten. Bei einer geringeren Drehung der Eingabe beispielsweise
     um 5 Grad, ist der Verlust aufgrund der Stabilisierung deutlich geringer. Mathematisch lässt sich
     der Unterschied zwischen Ein- und Ausgabe durch die folgende Formel beschreiben.
@@ -67,7 +67,7 @@
     \\
     Obwohl diese Problematik auf den ersten Blick nach einem Ausschlusskriterium für die digitale
     Bildstabilisierung aussieht, spielt es in der Realität eine geringe Rolle. Moderne Kameras sind
-    in der Lage, in unterschiedlichen Formaten und Auflösungen aufnahmen anzufertigen. Wäre die Eingabe
+    in der Lage, in unterschiedlichen Formaten und Auflösungen Aufnahmen anzufertigen. Wäre die Eingabe
     beispielsweise im 4:3-Format erfolgt, hätte die Ausgabe eine höhere Qualität, da weniger gezoomt
     werden müsste. Eine genauere Betrachtung des Einflusses und des Zusammenspieles aus Format und
     Auflösung in Verbindung mit digitaler Bildstabilisierung ist aufgrund des Umfangs dieser Arbeit
